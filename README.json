@@ -36,10 +36,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T21:42:33Z",
+            "last_commit": "2026-08-14T07:50:19Z",
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 58820
+            "stars": 58831
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2024-04-16T07:21:43Z",
             "owner": "smartcontractkit",
             "repo": "full-blockchain-solidity-course-py",
-            "stars": 11213
+            "stars": 11212
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-07-26T03:54:41Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10803
+            "stars": 10804
           }
         },
         {
@@ -95,7 +95,7 @@
             "last_commit": "2026-08-11T22:28:57Z",
             "owner": "bkrem",
             "repo": "awesome-solidity",
-            "stars": 7039
+            "stars": 7038
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2025-10-12T06:30:30Z",
             "owner": "slowmist",
             "repo": "Blockchain-dark-forest-selfguard-handbook",
-            "stars": 6836
+            "stars": 6838
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-08-11T03:01:13Z",
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6737
+            "stars": 6740
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2026-01-23T15:01:47Z",
             "owner": "matter-labs",
             "repo": "awesome-zero-knowledge-proofs",
-            "stars": 5805
+            "stars": 5804
           }
         },
         {
@@ -235,7 +235,7 @@
             "last_commit": "2023-02-10T16:37:58Z",
             "owner": "openblockchains",
             "repo": "awesome-blockchains",
-            "stars": 3779
+            "stars": 3778
           }
         },
         {
@@ -263,7 +263,7 @@
             "last_commit": "2024-04-19T08:52:31Z",
             "owner": "fravoll",
             "repo": "solidity-patterns",
-            "stars": 3324
+            "stars": 3323
           }
         },
         {
@@ -277,7 +277,7 @@
             "last_commit": "2026-05-17T21:39:23Z",
             "owner": "rust-in-blockchain",
             "repo": "awesome-blockchain-rust",
-            "stars": 2804
+            "stars": 2803
           }
         },
         {
@@ -319,7 +319,7 @@
             "last_commit": "2026-04-13T21:32:17Z",
             "owner": "crytic",
             "repo": "building-secure-contracts",
-            "stars": 2476
+            "stars": 2477
           }
         },
         {
@@ -347,7 +347,7 @@
             "last_commit": "2025-03-25T11:02:54Z",
             "owner": "immunefi-team",
             "repo": "Web3-Security-Library",
-            "stars": 2190
+            "stars": 2189
           }
         },
         {
@@ -431,7 +431,7 @@
             "last_commit": "2022-09-23T12:06:25Z",
             "owner": "sigp",
             "repo": "solidity-security-blog",
-            "stars": 1523
+            "stars": 1524
           }
         },
         {
@@ -1110,7 +1110,7 @@
             "last_commit": "2023-07-04T17:31:26Z",
             "owner": "mattstam",
             "repo": "solidity-template",
-            "stars": 118
+            "stars": 116
           }
         },
         {
@@ -1186,7 +1186,7 @@
             "last_commit": "2024-12-26T18:18:32Z",
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25283
+            "stars": 25288
           }
         },
         {
@@ -1200,7 +1200,7 @@
             "last_commit": "2026-05-13T14:04:25Z",
             "owner": "ethereumbook",
             "repo": "ethereumbook",
-            "stars": 21514
+            "stars": 21516
           }
         },
         {
@@ -1236,7 +1236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T16:10:45.062Z",
+    "last_updated": "2026-08-14T16:07:06.587Z",
     "original_repository": "frankiefab100/Blockchain-Development-Resources",
     "original_repository_sha": "cfcee9a3d180cb80d7b1e1ddedf21d610ad22803",
     "enhanced_repository": "enhansome/enhansome-Blockchain-Development-Resources",
