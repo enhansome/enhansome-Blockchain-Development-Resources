@@ -1,32 +1,7 @@
 {
   "items": [
     {
-      "description": "If you really appreciate the content of this repository, don't forget to give it a Star⭐ and/or Tweet about it.",
-      "items": [],
-      "title": "Please carefully read before opening a pull request or issue."
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Websites"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Gamified Tutorials"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Youtube Channels"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Free Online Courses"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -35,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21938243,
             "language": "Rust",
-            "last_commit": "2026-08-17T20:30:50Z",
+            "last_commit": "2026-08-18T15:53:34Z",
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 58885
+            "stars": 58896
           }
         },
         {
@@ -49,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 448715893,
             "language": null,
             "last_commit": "2024-06-12T05:10:25Z",
             "owner": "smartcontractkit",
@@ -63,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 389803219,
             "language": null,
             "last_commit": "2024-04-16T07:21:43Z",
             "owner": "smartcontractkit",
@@ -77,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 378536025,
             "language": "JavaScript",
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10806
+            "stars": 10808
           }
         },
         {
@@ -91,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62893187,
             "language": null,
             "last_commit": "2026-08-18T07:55:17Z",
             "owner": "bkrem",
@@ -105,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 473014643,
             "language": null,
             "last_commit": "2025-10-12T06:30:30Z",
             "owner": "slowmist",
@@ -119,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 501990676,
             "language": "Solidity",
             "last_commit": "2026-08-18T05:31:42Z",
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6749
+            "stars": 6748
           }
         },
         {
@@ -133,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 633893464,
             "language": null,
             "last_commit": "2026-07-08T12:27:15Z",
             "owner": "Cyfrin",
@@ -147,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156949882,
             "language": null,
             "last_commit": "2026-01-23T15:01:47Z",
             "owner": "matter-labs",
@@ -161,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 136638948,
             "language": null,
             "last_commit": "2025-03-09T17:40:55Z",
             "owner": "Consensys",
@@ -175,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102755229,
             "language": null,
             "last_commit": "2024-06-19T20:53:40Z",
             "owner": "coinpride",
@@ -189,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109102073,
             "language": "JavaScript",
             "last_commit": "2024-08-19T06:52:54Z",
             "owner": "jklepatch",
@@ -203,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88447006,
             "language": null,
             "last_commit": "2026-05-04T23:10:43Z",
             "owner": "Scanate",
@@ -217,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154688866,
             "language": "CSS",
             "last_commit": "2024-06-07T09:01:50Z",
             "owner": "nakov",
@@ -231,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103458675,
             "language": "Ruby",
             "last_commit": "2023-02-10T16:37:58Z",
             "owner": "openblockchains",
@@ -245,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127364556,
             "language": "Go",
             "last_commit": "2024-03-22T07:23:48Z",
             "owner": "yjjnls",
@@ -259,11 +250,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121522860,
             "language": "Solidity",
             "last_commit": "2024-04-19T08:52:31Z",
             "owner": "fravoll",
             "repo": "solidity-patterns",
-            "stars": 3323
+            "stars": 3324
           }
         },
         {
@@ -273,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 184961291,
             "language": null,
             "last_commit": "2026-05-17T21:39:23Z",
             "owner": "rust-in-blockchain",
@@ -287,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102210005,
             "language": "TypeScript",
             "last_commit": "2024-07-10T10:41:35Z",
             "owner": "dethcrypto",
@@ -301,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104366016,
             "language": null,
             "last_commit": "2024-05-31T07:11:11Z",
             "owner": "protofire",
@@ -315,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 233102473,
             "language": "Solidity",
             "last_commit": "2026-04-13T21:32:17Z",
             "owner": "crytic",
@@ -329,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 376155268,
             "language": null,
             "last_commit": "2026-03-14T19:04:35Z",
             "owner": "OffcierCia",
@@ -343,11 +340,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 538654189,
             "language": null,
             "last_commit": "2025-03-25T11:02:54Z",
             "owner": "immunefi-team",
             "repo": "Web3-Security-Library",
-            "stars": 2190
+            "stars": 2191
           }
         },
         {
@@ -357,11 +355,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 402241377,
             "language": null,
             "last_commit": "2023-07-02T23:04:48Z",
             "owner": "transmissions11",
             "repo": "solcurity",
-            "stars": 2184
+            "stars": 2183
           }
         },
         {
@@ -371,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 509418041,
             "language": "Solidity",
             "last_commit": "2025-04-24T04:07:49Z",
             "owner": "SunWeb3Sec",
@@ -385,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107699164,
             "language": null,
             "last_commit": "2024-06-17T10:22:52Z",
             "owner": "jpantunes",
@@ -399,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119325339,
             "language": "Go",
             "last_commit": "2021-10-04T14:22:39Z",
             "owner": "nosequeldeebee",
@@ -413,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 430532919,
             "language": null,
             "last_commit": "2024-10-15T06:58:06Z",
             "owner": "ventali",
@@ -427,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135463860,
             "language": null,
             "last_commit": "2022-09-23T12:06:25Z",
             "owner": "sigp",
@@ -441,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111513785,
             "language": null,
             "last_commit": "2026-04-05T02:30:43Z",
             "owner": "manojpramesh",
@@ -455,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144327211,
             "language": null,
             "last_commit": "2024-08-20T12:39:26Z",
             "owner": "crytic",
@@ -469,11 +475,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121810842,
             "language": null,
             "last_commit": "2024-08-19T01:36:24Z",
             "owner": "crytic",
             "repo": "evm-opcodes",
-            "stars": 1357
+            "stars": 1358
           }
         },
         {
@@ -483,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 453737831,
             "language": null,
             "last_commit": "2023-08-13T17:14:49Z",
             "owner": "dcbuild3r",
@@ -497,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 462770120,
             "language": "Solidity",
             "last_commit": "2025-03-03T12:03:15Z",
             "owner": "0xmetaschool",
@@ -511,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 453021036,
             "language": "Solidity",
             "last_commit": "2023-04-26T07:30:13Z",
             "owner": "spo0ds",
@@ -525,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 383086796,
             "language": null,
             "last_commit": "2025-08-28T14:42:04Z",
             "owner": "arddluma",
@@ -539,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14548115,
             "language": null,
             "last_commit": "2020-11-12T14:42:21Z",
             "owner": "DavidAJohnston",
@@ -553,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124924123,
             "language": null,
             "last_commit": "2023-06-02T09:26:49Z",
             "owner": "benstew",
@@ -567,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157252412,
             "language": null,
             "last_commit": "2023-02-08T20:16:31Z",
             "owner": "OpenZeppelin",
@@ -581,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 480656314,
             "language": null,
             "last_commit": "2023-12-24T16:04:37Z",
             "owner": "LuozhuZhang",
@@ -595,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 484274634,
             "language": "TypeScript",
             "last_commit": "2024-08-13T14:34:35Z",
             "owner": "Unboxed-Software",
@@ -609,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63085011,
             "language": "JavaScript",
             "last_commit": "2017-12-10T19:28:37Z",
             "owner": "raineorshine",
@@ -623,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155328828,
             "language": "Solidity",
             "last_commit": "2025-05-15T15:34:13Z",
             "owner": "Aniket-Engg",
@@ -637,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104821658,
             "language": null,
             "last_commit": "2021-08-05T09:10:57Z",
             "owner": "BlockchainLabsNZ",
@@ -651,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 445231181,
             "language": null,
             "last_commit": "2022-08-19T11:23:21Z",
             "owner": "0xpranay",
@@ -665,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 238270664,
             "language": "CSS",
             "last_commit": "2026-05-27T15:08:27Z",
             "owner": "unstoppabledomains",
@@ -679,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 65865666,
             "language": "Solidity",
             "last_commit": "2022-09-22T06:05:53Z",
             "owner": "JamesANZ",
@@ -693,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 438172396,
             "language": "Solidity",
             "last_commit": "2021-12-29T14:06:31Z",
             "owner": "frankiefab100",
@@ -707,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 477333130,
             "language": "JavaScript",
             "last_commit": "2025-12-27T01:28:37Z",
             "owner": "Olanetsoft",
@@ -721,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289503576,
             "language": null,
             "last_commit": "2024-11-13T18:21:48Z",
             "owner": "ErichDylus",
@@ -735,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 415929134,
             "language": "JavaScript",
             "last_commit": "2022-02-25T17:58:39Z",
             "owner": "eternauta1337",
@@ -749,6 +775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132931768,
             "language": "Solidity",
             "last_commit": "2024-06-19T10:25:14Z",
             "owner": "pbrudny",
@@ -763,6 +790,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160536230,
             "language": "Solidity",
             "last_commit": "2023-07-20T10:49:15Z",
             "owner": "l-henri",
@@ -777,6 +805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 416065622,
             "language": null,
             "last_commit": "2022-02-20T17:14:33Z",
             "owner": "decentology",
@@ -791,6 +820,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 226334438,
             "language": "Python",
             "last_commit": "2024-08-12T14:15:53Z",
             "owner": "aeternity",
@@ -802,22 +832,7 @@
       "title": "GitHub Repositories"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Tutorial Docs"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Development Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Node Providers"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -826,6 +841,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 259354262,
             "language": "CSS",
             "last_commit": "2024-06-04T15:20:23Z",
             "owner": "scaffold-eth",
@@ -840,6 +856,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 157421028,
             "language": "TypeScript",
             "last_commit": "2024-08-20T17:47:06Z",
             "owner": "Uniswap",
@@ -854,6 +871,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 417141259,
             "language": "TypeScript",
             "last_commit": "2024-06-19T14:27:22Z",
             "owner": "ethereum-boilerplate",
@@ -868,6 +886,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 233484109,
             "language": "JavaScript",
             "last_commit": "2024-04-10T08:13:43Z",
             "owner": "WalletConnect",
@@ -882,6 +901,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 277660991,
             "language": "TypeScript",
             "last_commit": "2026-02-03T17:22:01Z",
             "owner": "PaulRBerg",
@@ -896,6 +916,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 339436799,
             "language": "TypeScript",
             "last_commit": "2024-04-07T09:04:32Z",
             "owner": "solana-labs",
@@ -910,6 +931,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 442718852,
             "language": "TypeScript",
             "last_commit": "2025-07-14T10:32:51Z",
             "owner": "web3ui",
@@ -924,6 +946,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 519914628,
             "language": "JavaScript",
             "last_commit": "2026-08-10T11:06:22Z",
             "owner": "alchemyplatform",
@@ -938,6 +961,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 430789888,
             "language": "TypeScript",
             "last_commit": "2023-01-08T02:41:38Z",
             "owner": "Developer-DAO",
@@ -952,6 +976,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 579172366,
             "language": "TypeScript",
             "last_commit": "2026-05-21T12:49:24Z",
             "owner": "wslyvh",
@@ -966,6 +991,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 216521759,
             "language": "TypeScript",
             "last_commit": "2023-03-04T05:58:22Z",
             "owner": "rhlsthrm",
@@ -980,6 +1006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 583595113,
             "language": "TypeScript",
             "last_commit": "2024-05-03T14:06:27Z",
             "owner": "turbo-eth",
@@ -994,6 +1021,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 216919760,
             "language": "TypeScript",
             "last_commit": "2026-08-01T15:53:48Z",
             "owner": "near",
@@ -1008,6 +1036,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 439732829,
             "language": "HTML",
             "last_commit": "2023-02-07T06:55:13Z",
             "owner": "buildspace",
@@ -1022,6 +1051,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 426308444,
             "language": "TypeScript",
             "last_commit": "2022-01-21T17:43:41Z",
             "owner": "G3root",
@@ -1036,6 +1066,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 393503382,
             "language": "JavaScript",
             "last_commit": "2024-07-23T16:49:55Z",
             "owner": "Polygon-Academy",
@@ -1050,6 +1081,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 514661883,
             "language": "Solidity",
             "last_commit": "2026-02-24T13:09:46Z",
             "owner": "defi-wonderland",
@@ -1064,6 +1096,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 472128778,
             "language": "TypeScript",
             "last_commit": "2024-02-26T03:23:05Z",
             "owner": "Dhaiwat10",
@@ -1078,6 +1111,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 494267810,
             "language": "JavaScript",
             "last_commit": "2023-05-04T20:15:27Z",
             "owner": "dabit3",
@@ -1092,6 +1126,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 377200993,
             "language": "TypeScript",
             "last_commit": "2025-03-28T16:59:48Z",
             "owner": "defi-wonderland",
@@ -1106,6 +1141,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 559357734,
             "language": "TypeScript",
             "last_commit": "2023-07-04T17:31:26Z",
             "owner": "mattstam",
@@ -1120,6 +1156,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 476687648,
             "language": "TypeScript",
             "last_commit": "2025-01-01T13:53:28Z",
             "owner": "emretepedev",
@@ -1134,6 +1171,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 611335845,
             "language": "TypeScript",
             "last_commit": "2023-12-31T01:06:35Z",
             "owner": "envoy1084",
@@ -1148,6 +1186,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 457340519,
             "language": "JavaScript",
             "last_commit": "2022-02-10T03:13:50Z",
             "owner": "swaroopmaddu",
@@ -1162,6 +1201,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 530355423,
             "language": "JavaScript",
             "last_commit": "2022-09-03T21:55:25Z",
             "owner": "womenbuildweb3",
@@ -1173,7 +1213,7 @@
       "title": "Project Starter"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1182,11 +1222,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12044132,
             "language": "HTML",
             "last_commit": "2024-12-26T18:18:32Z",
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25290
+            "stars": 25291
           }
         },
         {
@@ -1196,11 +1237,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65392364,
             "language": null,
             "last_commit": "2026-05-13T14:04:25Z",
             "owner": "ethereumbook",
             "repo": "ethereumbook",
-            "stars": 21518
+            "stars": 21517
           }
         },
         {
@@ -1210,6 +1252,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 203856675,
             "language": "AsciiDoc",
             "last_commit": "2024-08-09T18:07:00Z",
             "owner": "lnbook",
@@ -1224,6 +1267,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 318594866,
             "language": null,
             "last_commit": "2025-05-17T17:01:31Z",
             "owner": "sherminvo",
@@ -1236,8 +1280,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:47:42.603Z",
+    "last_updated": "2026-08-19T12:09:21.523Z",
     "original_repository": "frankiefab100/Blockchain-Development-Resources",
+    "original_repository_id": 400041672,
     "original_repository_sha": "cfcee9a3d180cb80d7b1e1ddedf21d610ad22803",
     "enhanced_repository": "enhansome/enhansome-Blockchain-Development-Resources",
     "enhanced_repository_description": null,
