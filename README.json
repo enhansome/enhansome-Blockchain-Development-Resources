@@ -12,10 +12,10 @@
             "archived": false,
             "id": 21938243,
             "language": "Rust",
-            "last_commit": "2026-08-18T15:53:34Z",
+            "last_commit": "2026-08-20T08:15:22Z",
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 58896
+            "stars": 58903
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-04-16T07:21:43Z",
             "owner": "smartcontractkit",
             "repo": "full-blockchain-solidity-course-py",
-            "stars": 11212
+            "stars": 11213
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10808
+            "stars": 10811
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-18T07:55:17Z",
             "owner": "bkrem",
             "repo": "awesome-solidity",
-            "stars": 7042
+            "stars": 7044
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-18T05:31:42Z",
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6749
+            "stars": 6747
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-07-08T12:27:15Z",
             "owner": "Cyfrin",
             "repo": "foundry-full-course-cu",
-            "stars": 5848
+            "stars": 5851
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2024-08-19T06:52:54Z",
             "owner": "jklepatch",
             "repo": "eattheblocks",
-            "stars": 3988
+            "stars": 3989
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2024-06-07T09:01:50Z",
             "owner": "nakov",
             "repo": "Practical-Cryptography-for-Developers-Book",
-            "stars": 3824
+            "stars": 3823
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2024-03-22T07:23:48Z",
             "owner": "yjjnls",
             "repo": "awesome-blockchain",
-            "stars": 3623
+            "stars": 3626
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-05-17T21:39:23Z",
             "owner": "rust-in-blockchain",
             "repo": "awesome-blockchain-rust",
-            "stars": 2805
+            "stars": 2806
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2026-03-14T19:04:35Z",
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2207
+            "stars": 2209
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2023-07-02T23:04:48Z",
             "owner": "transmissions11",
             "repo": "solcurity",
-            "stars": 2183
+            "stars": 2182
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2023-02-08T20:16:31Z",
             "owner": "OpenZeppelin",
             "repo": "awesome-openzeppelin",
-            "stars": 764
+            "stars": 765
           }
         },
         {
@@ -846,7 +846,7 @@
             "last_commit": "2024-06-04T15:20:23Z",
             "owner": "scaffold-eth",
             "repo": "scaffold-eth",
-            "stars": 9041
+            "stars": 9040
           }
         },
         {
@@ -891,7 +891,7 @@
             "last_commit": "2024-04-10T08:13:43Z",
             "owner": "WalletConnect",
             "repo": "create-eth-app",
-            "stars": 2748
+            "stars": 2747
           }
         },
         {
@@ -921,7 +921,7 @@
             "last_commit": "2024-04-07T09:04:32Z",
             "owner": "solana-labs",
             "repo": "dapp-scaffold",
-            "stars": 1814
+            "stars": 1815
           }
         },
         {
@@ -981,7 +981,7 @@
             "last_commit": "2026-05-21T12:49:24Z",
             "owner": "wslyvh",
             "repo": "nexth",
-            "stars": 747
+            "stars": 746
           }
         },
         {
@@ -1242,7 +1242,7 @@
             "last_commit": "2026-05-13T14:04:25Z",
             "owner": "ethereumbook",
             "repo": "ethereumbook",
-            "stars": 21517
+            "stars": 21518
           }
         },
         {
@@ -1280,7 +1280,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:47:34.718Z",
+    "last_updated": "2026-08-20T15:49:53.165Z",
     "original_repository": "frankiefab100/Blockchain-Development-Resources",
     "original_repository_id": 400041672,
     "original_repository_sha": "cfcee9a3d180cb80d7b1e1ddedf21d610ad22803",
