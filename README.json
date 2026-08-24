@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T07:28:27Z",
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 58956
+            "stars": 58958
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10818
+            "stars": 10819
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-18T07:55:17Z",
             "owner": "bkrem",
             "repo": "awesome-solidity",
-            "stars": 7046
+            "stars": 7045
           }
         },
         {
@@ -1280,7 +1280,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:11:40.809Z",
+    "last_updated": "2026-08-24T15:57:06.010Z",
     "original_repository": "frankiefab100/Blockchain-Development-Resources",
     "original_repository_id": 400041672,
     "original_repository_sha": "cfcee9a3d180cb80d7b1e1ddedf21d610ad22803",
