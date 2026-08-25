@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T07:28:27Z",
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 58958
+            "stars": 58963
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-04-16T07:21:43Z",
             "owner": "smartcontractkit",
             "repo": "full-blockchain-solidity-course-py",
-            "stars": 11214
+            "stars": 11213
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-24T03:06:00Z",
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6755
+            "stars": 6756
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2024-06-19T20:53:40Z",
             "owner": "coinpride",
             "repo": "CryptoList",
-            "stars": 4469
+            "stars": 4471
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-05-04T23:10:43Z",
             "owner": "Scanate",
             "repo": "EthList",
-            "stars": 3876
+            "stars": 3875
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2024-04-19T08:52:31Z",
             "owner": "fravoll",
             "repo": "solidity-patterns",
-            "stars": 3324
+            "stars": 3323
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-05-17T21:39:23Z",
             "owner": "rust-in-blockchain",
             "repo": "awesome-blockchain-rust",
-            "stars": 2807
+            "stars": 2808
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2026-03-14T19:04:35Z",
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2209
+            "stars": 2210
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2024-10-15T06:58:06Z",
             "owner": "ventali",
             "repo": "awesome-zk",
-            "stars": 1583
+            "stars": 1582
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2024-08-20T12:39:26Z",
             "owner": "crytic",
             "repo": "awesome-ethereum-security",
-            "stars": 1485
+            "stars": 1486
           }
         },
         {
@@ -861,7 +861,7 @@
             "last_commit": "2024-08-20T17:47:06Z",
             "owner": "Uniswap",
             "repo": "web3-react",
-            "stars": 5688
+            "stars": 5687
           }
         },
         {
@@ -876,7 +876,7 @@
             "last_commit": "2024-06-19T14:27:22Z",
             "owner": "ethereum-boilerplate",
             "repo": "ethereum-boilerplate",
-            "stars": 4138
+            "stars": 4139
           }
         },
         {
@@ -1086,7 +1086,7 @@
             "last_commit": "2026-02-24T13:09:46Z",
             "owner": "defi-wonderland",
             "repo": "solidity-foundry-boilerplate",
-            "stars": 205
+            "stars": 204
           }
         },
         {
@@ -1280,7 +1280,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:57:06.010Z",
+    "last_updated": "2026-08-25T06:01:13.846Z",
     "original_repository": "frankiefab100/Blockchain-Development-Resources",
     "original_repository_id": 400041672,
     "original_repository_sha": "cfcee9a3d180cb80d7b1e1ddedf21d610ad22803",
