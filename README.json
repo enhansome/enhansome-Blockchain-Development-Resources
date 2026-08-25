@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T07:28:27Z",
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 58963
+            "stars": 58968
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-04-16T07:21:43Z",
             "owner": "smartcontractkit",
             "repo": "full-blockchain-solidity-course-py",
-            "stars": 11213
+            "stars": 11214
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10819
+            "stars": 10818
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-18T07:55:17Z",
             "owner": "bkrem",
             "repo": "awesome-solidity",
-            "stars": 7045
+            "stars": 7044
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2025-03-09T17:40:55Z",
             "owner": "Consensys",
             "repo": "ethereum-developer-tools-list",
-            "stars": 5403
+            "stars": 5402
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2024-06-07T09:01:50Z",
             "owner": "nakov",
             "repo": "Practical-Cryptography-for-Developers-Book",
-            "stars": 3823
+            "stars": 3824
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2024-03-22T07:23:48Z",
             "owner": "yjjnls",
             "repo": "awesome-blockchain",
-            "stars": 3628
+            "stars": 3627
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2024-06-17T10:22:52Z",
             "owner": "jpantunes",
             "repo": "awesome-cryptoeconomics",
-            "stars": 1768
+            "stars": 1769
           }
         },
         {
@@ -450,7 +450,7 @@
             "last_commit": "2026-04-05T02:30:43Z",
             "owner": "manojpramesh",
             "repo": "solidity-cheatsheet",
-            "stars": 1507
+            "stars": 1506
           }
         },
         {
@@ -861,7 +861,7 @@
             "last_commit": "2024-08-20T17:47:06Z",
             "owner": "Uniswap",
             "repo": "web3-react",
-            "stars": 5687
+            "stars": 5686
           }
         },
         {
@@ -1011,7 +1011,7 @@
             "last_commit": "2024-05-03T14:06:27Z",
             "owner": "turbo-eth",
             "repo": "template-web3-app",
-            "stars": 385
+            "stars": 384
           }
         },
         {
@@ -1227,7 +1227,7 @@
             "last_commit": "2024-12-26T18:18:32Z",
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25293
+            "stars": 25292
           }
         },
         {
@@ -1242,7 +1242,7 @@
             "last_commit": "2026-05-13T14:04:25Z",
             "owner": "ethereumbook",
             "repo": "ethereumbook",
-            "stars": 21519
+            "stars": 21520
           }
         },
         {
@@ -1280,7 +1280,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:01:13.846Z",
+    "last_updated": "2026-08-25T16:01:53.930Z",
     "original_repository": "frankiefab100/Blockchain-Development-Resources",
     "original_repository_id": 400041672,
     "original_repository_sha": "cfcee9a3d180cb80d7b1e1ddedf21d610ad22803",
