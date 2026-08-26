@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T07:28:27Z",
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 58968
+            "stars": 58981
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-06-12T05:10:25Z",
             "owner": "smartcontractkit",
             "repo": "full-blockchain-solidity-course-js",
-            "stars": 14034
+            "stars": 14036
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-04-16T07:21:43Z",
             "owner": "smartcontractkit",
             "repo": "full-blockchain-solidity-course-py",
-            "stars": 11214
+            "stars": 11215
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-16T23:17:39Z",
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10818
+            "stars": 10819
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2025-10-12T06:30:30Z",
             "owner": "slowmist",
             "repo": "Blockchain-dark-forest-selfguard-handbook",
-            "stars": 6839
+            "stars": 6843
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-24T03:06:00Z",
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6756
+            "stars": 6759
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-07-08T12:27:15Z",
             "owner": "Cyfrin",
             "repo": "foundry-full-course-cu",
-            "stars": 5852
+            "stars": 5854
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-01-23T15:01:47Z",
             "owner": "matter-labs",
             "repo": "awesome-zero-knowledge-proofs",
-            "stars": 5804
+            "stars": 5805
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2024-06-19T20:53:40Z",
             "owner": "coinpride",
             "repo": "CryptoList",
-            "stars": 4471
+            "stars": 4473
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2024-08-19T06:52:54Z",
             "owner": "jklepatch",
             "repo": "eattheblocks",
-            "stars": 3989
+            "stars": 3988
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2026-04-13T21:32:17Z",
             "owner": "crytic",
             "repo": "building-secure-contracts",
-            "stars": 2480
+            "stars": 2481
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2026-03-14T19:04:35Z",
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2210
+            "stars": 2211
           }
         },
         {
@@ -846,7 +846,7 @@
             "last_commit": "2024-06-04T15:20:23Z",
             "owner": "scaffold-eth",
             "repo": "scaffold-eth",
-            "stars": 9040
+            "stars": 9041
           }
         },
         {
@@ -1227,7 +1227,7 @@
             "last_commit": "2024-12-26T18:18:32Z",
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25292
+            "stars": 25294
           }
         },
         {
@@ -1242,7 +1242,7 @@
             "last_commit": "2026-05-13T14:04:25Z",
             "owner": "ethereumbook",
             "repo": "ethereumbook",
-            "stars": 21520
+            "stars": 21517
           }
         },
         {
@@ -1257,7 +1257,7 @@
             "last_commit": "2024-08-09T18:07:00Z",
             "owner": "lnbook",
             "repo": "lnbook",
-            "stars": 2958
+            "stars": 2959
           }
         },
         {
@@ -1280,7 +1280,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:01:53.930Z",
+    "last_updated": "2026-08-26T16:34:21.397Z",
     "original_repository": "frankiefab100/Blockchain-Development-Resources",
     "original_repository_id": 400041672,
     "original_repository_sha": "cfcee9a3d180cb80d7b1e1ddedf21d610ad22803",
