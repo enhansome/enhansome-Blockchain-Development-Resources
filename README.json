@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Rust code and resources.",
+            "homepage": null,
             "id": 21938243,
             "language": "Rust",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-28T11:12:13Z",
+            "open_issues": 8,
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 59029
+            "stars": 59031,
+            "topics": [
+              "awesome",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -26,12 +34,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript",
+            "homepage": null,
             "id": 448715893,
             "language": null,
+            "license": null,
             "last_commit": "2024-06-12T05:10:25Z",
+            "open_issues": 104,
             "owner": "smartcontractkit",
             "repo": "full-blockchain-solidity-course-js",
-            "stars": 14038
+            "stars": 14038,
+            "topics": [
+              "alchemy",
+              "blockchain",
+              "chainlink",
+              "dao",
+              "defi",
+              "eth-security-toolbox",
+              "ethereum",
+              "hardhat",
+              "ipfs",
+              "javascript",
+              "moralis",
+              "nextjs",
+              "nft",
+              "openzeppelin",
+              "reactjs",
+              "remix",
+              "smart-contracts",
+              "solidity",
+              "thegraphprotocol",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -42,12 +76,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition",
+            "homepage": null,
             "id": 389803219,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-04-16T07:21:43Z",
+            "open_issues": 225,
             "owner": "smartcontractkit",
             "repo": "full-blockchain-solidity-course-py",
-            "stars": 11214
+            "stars": 11214,
+            "topics": [
+              "blockchain",
+              "chainlink",
+              "dapp",
+              "ethereum",
+              "smart-contracts",
+              "solidity",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -58,12 +105,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references! ",
+            "homepage": "https://officercia.medium.com/",
             "id": 378536025,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-16T23:17:39Z",
+            "open_issues": 5,
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10820
+            "stars": 10820,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "blockchain",
+              "curated-list",
+              "defi",
+              "ethereum",
+              "knowledge-base",
+              "roadmap",
+              "smart-contracts",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -74,12 +137,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⟠ A curated list of awesome Solidity resources, libraries, tools and more",
+            "homepage": "https://bkrem.github.io/awesome-solidity",
             "id": 62893187,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-18T07:55:17Z",
+            "open_issues": 26,
             "owner": "bkrem",
             "repo": "awesome-solidity",
-            "stars": 7044
+            "stars": 7044,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "contract-solidity",
+              "dapps",
+              "ethereum",
+              "linter-solidity",
+              "lists",
+              "resources",
+              "solidity",
+              "solidity-compiler",
+              "solidity-contracts",
+              "solidity-coverage",
+              "solidity-dapps",
+              "solidity-language",
+              "solidity-parser",
+              "solidity-security",
+              "solidity-web",
+              "web3",
+              "web3-dapp",
+              "web3-solidity"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -90,12 +179,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.",
+            "homepage": null,
             "id": 473014643,
             "language": null,
+            "license": null,
             "last_commit": "2025-10-12T06:30:30Z",
+            "open_issues": 20,
             "owner": "slowmist",
             "repo": "Blockchain-dark-forest-selfguard-handbook",
-            "stars": 6844
+            "stars": 6844,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -106,12 +200,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reproduce DeFi hacked incidents using Foundry.",
+            "homepage": null,
             "id": 501990676,
             "language": "Solidity",
-            "last_commit": "2026-08-28T03:03:12Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:00:58Z",
+            "open_issues": 2,
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6760
+            "stars": 6760,
+            "topics": [
+              "defi",
+              "ethereum",
+              "foundry",
+              "solidity",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -122,12 +227,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 633893464,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2026-07-08T12:27:15Z",
+            "open_issues": 2,
             "owner": "Cyfrin",
             "repo": "foundry-full-course-cu",
-            "stars": 5855
+            "stars": 5855,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -138,12 +248,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).",
+            "homepage": null,
             "id": 156949882,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-01-23T15:01:47Z",
+            "open_issues": 16,
             "owner": "matter-labs",
             "repo": "awesome-zero-knowledge-proofs",
-            "stars": 5819
+            "stars": 5820,
+            "topics": [
+              "explaining-snarks",
+              "knowledge-proofs",
+              "snark",
+              "team-crypto",
+              "zk-snarks"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -154,12 +275,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A guide to available tools and platforms for developing on Ethereum.",
+            "homepage": null,
             "id": 136638948,
             "language": null,
+            "license": null,
             "last_commit": "2025-03-09T17:40:55Z",
+            "open_issues": 37,
             "owner": "Consensys",
             "repo": "ethereum-developer-tools-list",
-            "stars": 5402
+            "stars": 5402,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -170,12 +296,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated collection of blockchain & cryptocurrency resources.",
+            "homepage": null,
             "id": 102755229,
             "language": null,
+            "license": null,
             "last_commit": "2024-06-19T20:53:40Z",
+            "open_issues": 135,
             "owner": "coinpride",
             "repo": "CryptoList",
-            "stars": 4477
+            "stars": 4477,
+            "topics": [
+              "altcoins",
+              "api",
+              "bitcoin",
+              "blockchain",
+              "btc",
+              "collection",
+              "cryptocurrency",
+              "directory",
+              "eth",
+              "ethereum",
+              "folder",
+              "links",
+              "list",
+              "news-aggregator",
+              "resourses",
+              "telegram-channel"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -186,12 +334,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers",
+            "homepage": "https://eattheblocks.com",
             "id": 109102073,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-08-19T06:52:54Z",
+            "open_issues": 155,
             "owner": "jklepatch",
             "repo": "eattheblocks",
-            "stars": 3987
+            "stars": 3987,
+            "topics": [
+              "blockchain",
+              "ethereum",
+              "screencast-series",
+              "solidity",
+              "truffle",
+              "truffle-framework",
+              "tutorial",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -202,12 +364,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Comprehensive Ethereum Reading List",
+            "homepage": null,
             "id": 88447006,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-04T23:10:43Z",
+            "open_issues": 5,
             "owner": "Scanate",
             "repo": "EthList",
-            "stars": 3875
+            "stars": 3875,
+            "topics": [
+              "bitcoin",
+              "blockchain",
+              "cryptocurrency",
+              "decentralization",
+              "decentralized",
+              "ethereum",
+              "ethereum-client",
+              "ethereum-contract",
+              "ethereum-dapp",
+              "ethereum-token",
+              "ethereumjs",
+              "reading-list",
+              "smartcontracts"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -218,12 +399,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA",
+            "homepage": "https://cryptobook.nakov.com",
             "id": 154688866,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2024-06-07T09:01:50Z",
+            "open_issues": 60,
             "owner": "nakov",
             "repo": "Practical-Cryptography-for-Developers-Book",
-            "stars": 3825
+            "stars": 3825,
+            "topics": [
+              "aes",
+              "asymmetric-ciphers",
+              "book",
+              "cryptography",
+              "digital-signature",
+              "ecc",
+              "ecdh",
+              "elliptic-curves",
+              "elliptic-curves-cryptography",
+              "hashes",
+              "hmac",
+              "kdf",
+              "key-agreement",
+              "programming",
+              "public-key-cryptography",
+              "python",
+              "quantum-safe-cryptography",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -234,12 +439,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. ",
+            "homepage": null,
             "id": 103458675,
             "language": "Ruby",
+            "license": "CC0-1.0",
             "last_commit": "2023-02-10T16:37:58Z",
+            "open_issues": 6,
             "owner": "openblockchains",
             "repo": "awesome-blockchains",
-            "stars": 3778
+            "stars": 3778,
+            "topics": [
+              "blockchain",
+              "content-addressable-storage",
+              "cryptohash",
+              "distributed-database",
+              "ethereum",
+              "git",
+              "merkletree",
+              "proof-of-waste",
+              "proof-of-work",
+              "sha256",
+              "transactions",
+              "tulipmania",
+              "tx",
+              "universum"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -250,12 +475,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡️Curated list of resources for the development and applications of blockchain.",
+            "homepage": null,
             "id": 127364556,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-03-22T07:23:48Z",
+            "open_issues": 51,
             "owner": "yjjnls",
             "repo": "awesome-blockchain",
-            "stars": 3628
+            "stars": 3628,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bitcoin",
+              "blockchain",
+              "bulletproofs",
+              "digital-currency",
+              "dpos",
+              "eos",
+              "eosio",
+              "ethereum",
+              "fabric",
+              "iota",
+              "ipfs",
+              "mastering-bitcoin",
+              "mastering-ethereum",
+              "monero",
+              "pbft",
+              "pos",
+              "pow",
+              "white-paper"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -266,12 +517,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A compilation of patterns and best practices for the smart contract programming language Solidity",
+            "homepage": "https://fravoll.github.io/solidity-patterns/",
             "id": 121522860,
             "language": "Solidity",
+            "license": "MIT",
             "last_commit": "2024-04-19T08:52:31Z",
+            "open_issues": 2,
             "owner": "fravoll",
             "repo": "solidity-patterns",
-            "stars": 3323
+            "stars": 3323,
+            "topics": [
+              "smart-contract",
+              "solidity",
+              "solidity-language",
+              "solidity-patterns"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -282,12 +543,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collect libraries and packages about blockchain/cryptography in Rust",
+            "homepage": null,
             "id": 184961291,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-17T21:39:23Z",
+            "open_issues": 13,
             "owner": "rust-in-blockchain",
             "repo": "awesome-blockchain-rust",
-            "stars": 2809
+            "stars": 2810,
+            "topics": [
+              "awesome",
+              "blockchain",
+              "consensus",
+              "cryptography",
+              "p2p",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -298,12 +571,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔌 TypeScript bindings for Ethereum smart contracts",
+            "homepage": null,
             "id": 102210005,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-07-10T10:41:35Z",
+            "open_issues": 127,
             "owner": "dethcrypto",
             "repo": "TypeChain",
-            "stars": 2792
+            "stars": 2792,
+            "topics": [
+              "abi",
+              "blockchain",
+              "ethereum",
+              "smartcontract",
+              "solidity",
+              "truffle",
+              "typescript",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -314,12 +601,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A suggested learning path for blockchain development",
+            "homepage": null,
             "id": 104366016,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-31T07:11:11Z",
+            "open_issues": 5,
             "owner": "protofire",
             "repo": "blockchain-learning-path",
-            "stars": 2673
+            "stars": 2673,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -330,12 +622,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Guidelines and training material to write secure smart contracts",
+            "homepage": "https://secure-contracts.com/",
             "id": 233102473,
             "language": "Solidity",
+            "license": "AGPL-3.0",
             "last_commit": "2026-04-13T21:32:17Z",
+            "open_issues": 58,
             "owner": "crytic",
             "repo": "building-secure-contracts",
-            "stars": 2482
+            "stars": 2482,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -346,12 +643,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request. ",
+            "homepage": "https://officercia.medium.com/",
             "id": 376155268,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-03-14T19:04:35Z",
+            "open_issues": 1,
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2212
+            "stars": 2212,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bitcoin",
+              "blockchain",
+              "blockchain-technology",
+              "cryptocurrency",
+              "curated-list",
+              "defi",
+              "ethereum",
+              "knowledge-base",
+              "research",
+              "smart-contracts"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -362,12 +677,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Information about web3 security and programming tutorials/tools",
+            "homepage": null,
             "id": 538654189,
             "language": null,
+            "license": null,
             "last_commit": "2025-03-25T11:02:54Z",
+            "open_issues": 1,
             "owner": "immunefi-team",
             "repo": "Web3-Security-Library",
-            "stars": 2194
+            "stars": 2194,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -378,12 +698,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Opinionated security and code quality standard for Solidity smart contracts.",
+            "homepage": null,
             "id": 402241377,
             "language": null,
+            "license": null,
             "last_commit": "2023-07-02T23:04:48Z",
+            "open_issues": 3,
             "owner": "transmissions11",
             "repo": "solcurity",
-            "stars": 2181
+            "stars": 2181,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -394,12 +719,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "To learn common smart contract vulnerabilities using Foundry!",
+            "homepage": null,
             "id": 509418041,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2025-04-24T04:07:49Z",
+            "open_issues": 2,
             "owner": "SunWeb3Sec",
             "repo": "DeFiVulnLabs",
-            "stars": 1971
+            "stars": 1971,
+            "topics": [
+              "defi",
+              "ethereum",
+              "foundry",
+              "solidity",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -410,12 +746,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An awesome curated list of Cryptoeconomic research and learning materials",
+            "homepage": null,
             "id": 107699164,
             "language": null,
+            "license": null,
             "last_commit": "2024-06-17T10:22:52Z",
+            "open_issues": 4,
             "owner": "jpantunes",
             "repo": "awesome-cryptoeconomics",
-            "stars": 1770
+            "stars": 1770,
+            "topics": [
+              "bitcoin",
+              "blockchain",
+              "casper",
+              "consensus",
+              "cryptoeconomics",
+              "ethereum",
+              "game-theory",
+              "pos"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -426,12 +776,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Write and publish your own blockchain in less than 200 lines of Go",
+            "homepage": null,
             "id": 119325339,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-10-04T14:22:39Z",
+            "open_issues": 3,
             "owner": "nosequeldeebee",
             "repo": "blockchain-tutorial",
-            "stars": 1601
+            "stars": 1601,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -442,12 +797,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome ZK resources, libraries, tools and more.  ",
+            "homepage": null,
             "id": 430532919,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-15T06:58:06Z",
+            "open_issues": 8,
             "owner": "ventali",
             "repo": "awesome-zk",
-            "stars": 1582
+            "stars": 1582,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -458,12 +818,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Comprehensive list of known attack vectors and common anti-patterns",
+            "homepage": "https://blog.sigmaprime.io/solidity-security.html",
             "id": 135463860,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2022-09-23T12:06:25Z",
+            "open_issues": 4,
             "owner": "sigp",
             "repo": "solidity-security-blog",
-            "stars": 1522
+            "stars": 1522,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -474,12 +839,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cheat sheet and best practices for solidity. Write smart contracts for Ethereum.",
+            "homepage": "https://manojpramesh.github.io/solidity-cheatsheet/",
             "id": 111513785,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-05T02:30:43Z",
+            "open_issues": 0,
             "owner": "manojpramesh",
             "repo": "solidity-cheatsheet",
-            "stars": 1506
+            "stars": 1506,
+            "topics": [
+              "best-practices",
+              "blockchain",
+              "ethereum",
+              "solidity",
+              "solidity-cheatsheet"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -490,12 +866,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Ethereum security references",
+            "homepage": null,
             "id": 144327211,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2024-08-20T12:39:26Z",
+            "open_issues": 39,
             "owner": "crytic",
             "repo": "awesome-ethereum-security",
-            "stars": 1486
+            "stars": 1486,
+            "topics": [
+              "ethereum",
+              "evm",
+              "security",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -506,12 +892,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ethereum opcodes and instruction reference",
+            "homepage": null,
             "id": 121810842,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2024-08-19T01:36:24Z",
+            "open_issues": 10,
             "owner": "crytic",
             "repo": "evm-opcodes",
-            "stars": 1357
+            "stars": 1357,
+            "topics": [
+              "ethereum",
+              "evm",
+              "instructions",
+              "opcodes"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -522,12 +918,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Devpill.me - A Public Good Blockchain Development Guide",
+            "homepage": "https://www.devpill.me/",
             "id": 453737831,
             "language": null,
+            "license": null,
             "last_commit": "2023-08-13T17:14:49Z",
+            "open_issues": 4,
             "owner": "dcbuild3r",
             "repo": "blockchain-development-guide",
-            "stars": 1345
+            "stars": 1345,
+            "topics": [
+              "blockchain-development",
+              "decentralized-finance",
+              "ethereum",
+              "full-stack",
+              "mev",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -538,12 +946,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All the learning projects code from Metaschool website.",
+            "homepage": null,
             "id": 462770120,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2025-03-03T12:03:15Z",
+            "open_issues": 163,
             "owner": "0xmetaschool",
             "repo": "Learning-Projects",
-            "stars": 1001
+            "stars": 1001,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -554,12 +967,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "I'm sharing everything I'm learning to become a Blockchain Engineer",
+            "homepage": null,
             "id": 453021036,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2023-04-26T07:30:13Z",
+            "open_issues": 1,
             "owner": "spo0ds",
             "repo": "Journey-to-become-a-Blockchain-Engineer",
-            "stars": 945
+            "stars": 945,
+            "topics": [
+              "aave",
+              "blockchain",
+              "brownie",
+              "chainlink",
+              "ethereum",
+              "hardhat",
+              "javascript",
+              "python3",
+              "roadmap",
+              "smartcontracts",
+              "typescript",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -570,12 +1001,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Node providers and public RPC endpoints for Ethereum, BSC, Gnosis (xDAI), Fantom, Avalanche, KuCoin, Fuse, Harmony, Tezos, IoTeX, Arbitrum, Optimism and more :) ",
+            "homepage": "https://multinodes.xyz",
             "id": 383086796,
             "language": null,
+            "license": null,
             "last_commit": "2025-08-28T14:42:04Z",
+            "open_issues": 1267,
             "owner": "arddluma",
             "repo": "awesome-list-rpc-nodes-providers",
-            "stars": 914
+            "stars": 914,
+            "topics": [
+              "account-abstraction",
+              "avalanche",
+              "awesome",
+              "awesome-list",
+              "blockchain",
+              "bsc",
+              "cryptocurrency",
+              "curated-list",
+              "erc-4337",
+              "ethereum",
+              "etherspot",
+              "evm",
+              "fantom",
+              "polygon",
+              "providers",
+              "rpc",
+              "rpc-node",
+              "xdai"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -586,12 +1041,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Decentralized Applications White Paper and Spec",
+            "homepage": null,
             "id": 14548115,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-11-12T14:42:21Z",
+            "open_issues": 10,
             "owner": "DavidAJohnston",
             "repo": "DecentralizedApplications",
-            "stars": 878
+            "stars": 878,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -602,12 +1062,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources for blockchain engineers",
+            "homepage": null,
             "id": 124924123,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2023-06-02T09:26:49Z",
+            "open_issues": 5,
             "owner": "benstew",
             "repo": "blockchain-for-software-engineers",
-            "stars": 801
+            "stars": 801,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -618,12 +1083,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blockchain educational resources curated by the OpenZeppelin team",
+            "homepage": null,
             "id": 157252412,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2023-02-08T20:16:31Z",
+            "open_issues": 4,
             "owner": "OpenZeppelin",
             "repo": "awesome-openzeppelin",
-            "stars": 766
+            "stars": 766,
+            "topics": [
+              "awesome-list",
+              "blockchain",
+              "ethereum",
+              "openzeppelin"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -634,12 +1109,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome zkEVM resources, libraries, tools and more",
+            "homepage": null,
             "id": 480656314,
             "language": null,
+            "license": null,
             "last_commit": "2023-12-24T16:04:37Z",
+            "open_issues": 4,
             "owner": "LuozhuZhang",
             "repo": "awesome-zkevm",
-            "stars": 470
+            "stars": 470,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "evm",
+              "layer2",
+              "native-zkevm",
+              "scaling",
+              "smart-contract",
+              "solidity",
+              "zero-knowledge-proofs",
+              "zk-rollup",
+              "zkevm"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -650,12 +1142,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A complete course for learning Solana, including creating and transferring tokens, making NFTs, on-chain app development, and more. ",
+            "homepage": "https://solana.com/developers",
             "id": 484274634,
             "language": "TypeScript",
+            "license": "MPL-2.0",
             "last_commit": "2024-08-13T14:34:35Z",
+            "open_issues": 0,
             "owner": "Unboxed-Software",
             "repo": "solana-course",
-            "stars": 435
+            "stars": 435,
+            "topics": [
+              "solana",
+              "spl"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -666,12 +1166,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of short yet fully-functional contracts that demonstrate Solidity language features.",
+            "homepage": null,
             "id": 63085011,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-12-10T19:28:37Z",
+            "open_issues": 1,
             "owner": "raineorshine",
             "repo": "solidity-by-example",
-            "stars": 434
+            "stars": 434,
+            "topics": [
+              "ethereum",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -682,12 +1190,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "First place for early developers to learn Solidity",
+            "homepage": null,
             "id": 155328828,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2025-05-15T15:34:13Z",
+            "open_issues": 6,
             "owner": "Aniket-Engg",
             "repo": "solidity-school",
-            "stars": 383
+            "stars": 383,
+            "topics": [
+              "hacktoberfest",
+              "smart-contracts",
+              "solidity",
+              "solidity-contracts",
+              "solidity-language",
+              "solidity-school"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -698,12 +1218,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Solidity resources",
+            "homepage": null,
             "id": 104821658,
             "language": null,
+            "license": null,
             "last_commit": "2021-08-05T09:10:57Z",
+            "open_issues": 6,
             "owner": "BlockchainLabsNZ",
             "repo": "awesome-solidity",
-            "stars": 267
+            "stars": 267,
+            "topics": [
+              "awesome-list",
+              "best-practices",
+              "dapp",
+              "dapps-development",
+              "ethereum",
+              "smart-contracts",
+              "solidity",
+              "vulnerabilities"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -714,12 +1248,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A bunch of notes for beginners learning solidity",
+            "homepage": null,
             "id": 445231181,
             "language": null,
+            "license": null,
             "last_commit": "2022-08-19T11:23:21Z",
+            "open_issues": 0,
             "owner": "0xpranay",
             "repo": "solidity-notes",
-            "stars": 243
+            "stars": 243,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -730,12 +1269,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Repository for resources on building decentralized websites",
+            "homepage": null,
             "id": 238270664,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-05-27T15:08:27Z",
+            "open_issues": 12,
             "owner": "unstoppabledomains",
             "repo": "decentralized-websites",
-            "stars": 217
+            "stars": 217,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -746,12 +1290,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A repo full of smart contracts written in solidity",
+            "homepage": null,
             "id": 65865666,
             "language": "Solidity",
+            "license": "MIT",
             "last_commit": "2022-09-22T06:05:53Z",
+            "open_issues": 1,
             "owner": "JamesANZ",
             "repo": "learn-solidity-with-examples",
-            "stars": 202
+            "stars": 202,
+            "topics": [
+              "blockchain",
+              "defi",
+              "educational",
+              "ethereum",
+              "smart-contracts",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -762,12 +1318,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blockchain Development curriculum, code snippets and best of practice learnt on the course of transitioning from Web2.0",
+            "homepage": null,
             "id": 438172396,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2021-12-29T14:06:31Z",
+            "open_issues": 1,
             "owner": "frankiefab100",
             "repo": "Web3.0-Roadmap",
-            "stars": 117
+            "stars": 117,
+            "topics": [
+              "blockchain",
+              "codesnippets",
+              "curriculum",
+              "ethereum",
+              "geth",
+              "roadmap",
+              "smart-contracts",
+              "solidity",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -778,12 +1349,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A bot explaining and simplifying web3 terms to everyone",
+            "homepage": "https://twitter.com/web3terms",
             "id": 477333130,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-12-27T01:28:37Z",
+            "open_issues": 2,
             "owner": "Olanetsoft",
             "repo": "web3terms",
-            "stars": 116
+            "stars": 116,
+            "topics": [
+              "blockchain",
+              "ethereum",
+              "hacktoberfest",
+              "javascript",
+              "nodejs",
+              "opensource",
+              "resources",
+              "twitter",
+              "twitter-api",
+              "twitter-bot"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -794,12 +1381,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Smart contract dev resources, tutorials, legal considerations, and scholarship.",
+            "homepage": null,
             "id": 289503576,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-11-13T18:21:48Z",
+            "open_issues": 0,
             "owner": "ErichDylus",
             "repo": "Smart-Contract-Resources",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -810,12 +1402,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Solidity trivias",
+            "homepage": null,
             "id": 415929134,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-02-25T17:58:39Z",
+            "open_issues": 0,
             "owner": "eternauta1337",
             "repo": "trivias",
-            "stars": 100
+            "stars": 100,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -826,12 +1423,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Basic examples of Solidity smart contracts",
+            "homepage": null,
             "id": 132931768,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2024-06-19T10:25:14Z",
+            "open_issues": 1,
             "owner": "pbrudny",
             "repo": "learning-solidity-2018",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "blockchain",
+              "ethereum",
+              "smart-contracts",
+              "solidity"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -842,12 +1449,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 160536230,
             "language": "Solidity",
+            "license": null,
             "last_commit": "2023-07-20T10:49:15Z",
+            "open_issues": 7,
             "owner": "l-henri",
             "repo": "solidity-101",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -858,12 +1470,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A markdown repository for resources on bridging the gap between web2 and web3",
+            "homepage": null,
             "id": 416065622,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-02-20T17:14:33Z",
+            "open_issues": 2,
             "owner": "decentology",
             "repo": "web2-to-web3-resources",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "web",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -874,12 +1496,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources for the æternity blockchain ",
+            "homepage": "https://aeternity.com/awesome-aeternity",
             "id": 226334438,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2024-08-12T14:15:53Z",
+            "open_issues": 0,
             "owner": "aeternity",
             "repo": "awesome-aeternity",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "aelabs",
+              "aeternity",
+              "awesome",
+              "awesome-list",
+              "blockchain",
+              "blockchain-technology",
+              "proof-of-work"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         }
@@ -896,12 +1531,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🏗 forkable Ethereum dev stack focused on fast product iterations ",
+            "homepage": "http://scaffoldeth.io",
             "id": 259354262,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2024-06-04T15:20:23Z",
+            "open_issues": 2,
             "owner": "scaffold-eth",
             "repo": "scaffold-eth",
-            "stars": 9041
+            "stars": 9041,
+            "topics": [
+              "buidler",
+              "create-react-app",
+              "dapp",
+              "eth",
+              "ethereum",
+              "ethers",
+              "graph",
+              "react",
+              "scaffoldeth",
+              "scaffolding",
+              "solidity",
+              "uniswap"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -912,12 +1565,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps",
+            "homepage": "https://web3-react-mu.vercel.app/",
             "id": 157421028,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2024-08-20T17:47:06Z",
+            "open_issues": 176,
             "owner": "Uniswap",
             "repo": "web3-react",
-            "stars": 5684
+            "stars": 5684,
+            "topics": [
+              "dapp",
+              "ethereum",
+              "javascript",
+              "typescript",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -928,12 +1592,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The ultimate NextJS Ethereum Dapp Boilerplate which gives you maximum flexibility and speed. Feel free to fork and contribute. Although this repo is called \"Ethereum Boilerplate\" it works with any EVM system and since it uses Moralis SDK You can even use it on Solana!  Happy BUIDL!👷‍♂️",
+            "homepage": "https://ethereumboilerplate.com",
             "id": 417141259,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-06-19T14:27:22Z",
+            "open_issues": 15,
             "owner": "ethereum-boilerplate",
             "repo": "ethereum-boilerplate",
-            "stars": 4136
+            "stars": 4136,
+            "topics": [
+              "bsc-boilerplate",
+              "dapp-boilerplate",
+              "dapp-example",
+              "ethereum",
+              "ethereum-boilerplate",
+              "ethereum-client",
+              "ethereum-react",
+              "moralis",
+              "nextjs",
+              "nextjs-starter",
+              "polygon-boilerplate",
+              "react",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -944,12 +1627,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Create Ethereum-powered apps with one command",
+            "homepage": "https://www.npmjs.com/package/create-eth-app",
             "id": 233484109,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-04-10T08:13:43Z",
+            "open_issues": 41,
             "owner": "WalletConnect",
             "repo": "create-eth-app",
-            "stars": 2746
+            "stars": 2746,
+            "topics": [
+              "create-react-app",
+              "ethereum",
+              "graphql",
+              "react",
+              "the-graph",
+              "yarn",
+              "yarn-workspaces"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -960,12 +1656,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hardhat-based template for developing Solidity smart contracts",
+            "homepage": null,
             "id": 277660991,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-03T17:22:01Z",
+            "open_issues": 2,
             "owner": "PaulRBerg",
             "repo": "hardhat-template",
-            "stars": 1972
+            "stars": 1972,
+            "topics": [
+              "blockchain",
+              "ethereum",
+              "ethers",
+              "hardhat",
+              "smart-contracts",
+              "solidity",
+              "template",
+              "typechain",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -976,12 +1687,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Scaffolding for a dapp built on Solana",
+            "homepage": null,
             "id": 339436799,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-07T09:04:32Z",
+            "open_issues": 19,
             "owner": "solana-labs",
             "repo": "dapp-scaffold",
-            "stars": 1815
+            "stars": 1815,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -992,12 +1708,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight reusable Web3 UI components for dapps. ",
+            "homepage": "https://web3uikit.com",
             "id": 442718852,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-07-14T10:32:51Z",
+            "open_issues": 21,
             "owner": "web3ui",
             "repo": "web3uikit",
-            "stars": 1783
+            "stars": 1783,
+            "topics": [
+              "dapp",
+              "dapp-ui",
+              "ethereum",
+              "ethereum-boilerplate",
+              "ethers",
+              "metamask",
+              "react",
+              "solana",
+              "walletconnect",
+              "web3",
+              "web3-dapp",
+              "web3-react",
+              "web3-ui",
+              "web3js",
+              "web3ui",
+              "web3uikit"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -1008,12 +1746,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The complete toolbox to create web3 applications. ",
+            "homepage": "https://docs.alchemy.com",
             "id": 519914628,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-10T11:06:22Z",
+            "open_issues": 14,
             "owner": "alchemyplatform",
             "repo": "create-web3-dapp",
-            "stars": 913
+            "stars": 913,
+            "topics": [
+              "alchemysdk",
+              "create-next-app",
+              "create-web3",
+              "ethers",
+              "nextjs",
+              "react",
+              "scaffoldeth",
+              "solidity",
+              "web3",
+              "web3js"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -1024,12 +1778,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A React UI library for Web3",
+            "homepage": "https://web3-ui.vercel.app/",
             "id": 430789888,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-08T02:41:38Z",
+            "open_issues": 8,
             "owner": "Developer-DAO",
             "repo": "web3-ui",
-            "stars": 778
+            "stars": 778,
+            "topics": [
+              "hooks",
+              "react",
+              "ui-components",
+              "web3",
+              "web3-ui"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -1040,12 +1805,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Next.js + Ethereum starter kit with Viem, Wagmi, Web3Modal, SIWE, Tailwind, daisyUI and more to quickly ship production-ready Web3 Apps ⚡",
+            "homepage": "https://nexth.vercel.app/",
             "id": 579172366,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-21T12:49:24Z",
+            "open_issues": 4,
             "owner": "wslyvh",
             "repo": "nexth",
-            "stars": 746
+            "stars": 746,
+            "topics": [
+              "chakra-ui",
+              "ethereum",
+              "nextjs",
+              "solidity",
+              "typescript",
+              "wagmi",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -1056,12 +1834,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Starter kit for smart contract development using Typescript",
+            "homepage": null,
             "id": 216521759,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-03-04T05:58:22Z",
+            "open_issues": 18,
             "owner": "rhlsthrm",
             "repo": "typescript-solidity-dev-starter-kit",
-            "stars": 403
+            "stars": 403,
+            "topics": [
+              "buidler",
+              "dapps",
+              "ethereum",
+              "solidity",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -1072,12 +1861,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡️ Web3 App Template built using Next.js, RainbowKit, SIWE, Disco, and more!",
+            "homepage": "https://www.turboeth.xyz",
             "id": 583595113,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-05-03T14:06:27Z",
+            "open_issues": 27,
             "owner": "turbo-eth",
             "repo": "template-web3-app",
-            "stars": 384
+            "stars": 384,
+            "topics": [
+              "boilerplate",
+              "dapp",
+              "ethereum",
+              "next13",
+              "nextjs",
+              "rainbowkit",
+              "tailwindcss",
+              "template",
+              "typescript",
+              "web3",
+              "web3-dapp"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -1088,12 +1894,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create a starter app hooked up to the NEAR blockchain",
+            "homepage": "https://near-examples.github.io/hello-near-examples/",
             "id": 216919760,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-01T15:53:48Z",
+            "open_issues": 2,
             "owner": "near",
             "repo": "create-near-app",
-            "stars": 365
+            "stars": 365,
+            "topics": [
+              "blockchain",
+              "react",
+              "rust",
+              "smartcontracts"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -1104,12 +1920,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 439732829,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2023-02-07T06:55:13Z",
+            "open_issues": 2,
             "owner": "buildspace",
             "repo": "buildspace-dao-starter",
-            "stars": 269
+            "stars": 269,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -1120,12 +1941,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fullstack monorepo template to develop ethereum dapps",
+            "homepage": null,
             "id": 426308444,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-01-21T17:43:41Z",
+            "open_issues": 0,
             "owner": "G3root",
             "repo": "nextjs-dapp-starter-ts",
-            "stars": 238
+            "stars": 238,
+            "topics": [
+              "dapp",
+              "ethereum",
+              "fullstack",
+              "hardhat",
+              "monorepo",
+              "nextjs",
+              "solidity",
+              "starter-template",
+              "turborepo",
+              "typescript",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -1136,12 +1974,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Start building full stack dApps fast with this starter kit!",
+            "homepage": null,
             "id": 393503382,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2024-07-23T16:49:55Z",
+            "open_issues": 14,
             "owner": "Polygon-Academy",
             "repo": "starter-kits",
-            "stars": 234
+            "stars": 234,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -1152,12 +1995,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚒️ Start your next Solidity project with Foundry in seconds",
+            "homepage": null,
             "id": 514661883,
             "language": "Solidity",
+            "license": "MIT",
             "last_commit": "2026-02-24T13:09:46Z",
+            "open_issues": 7,
             "owner": "defi-wonderland",
             "repo": "solidity-foundry-boilerplate",
-            "stars": 204
+            "stars": 204,
+            "topics": [
+              "boilerplate",
+              "dapp-starter",
+              "forge",
+              "foundry",
+              "solidity",
+              "template"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -1168,12 +2023,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fastest way to get started with a fully-fledged web3 frontend",
+            "homepage": "https://www.npmjs.com/package/create-web3-frontend",
             "id": 472128778,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-02-26T03:23:05Z",
+            "open_issues": 3,
             "owner": "Dhaiwat10",
             "repo": "create-web3-frontend",
-            "stars": 169
+            "stars": 169,
+            "topics": [
+              "ethers",
+              "frontend",
+              "next",
+              "nextjs",
+              "react",
+              "tailwindcss",
+              "typescript",
+              "wagmi",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -1184,12 +2054,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example of a basic front end built on Lens Protocol",
+            "homepage": null,
             "id": 494267810,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-05-04T20:15:27Z",
+            "open_issues": 2,
             "owner": "dabit3",
             "repo": "lens-protocol-frontend",
-            "stars": 136
+            "stars": 136,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -1200,12 +2075,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Start your next Solidity project with Hardhat in seconds",
+            "homepage": null,
             "id": 377200993,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2025-03-28T16:59:48Z",
+            "open_issues": 0,
             "owner": "defi-wonderland",
             "repo": "solidity-hardhat-boilerplate",
-            "stars": 130
+            "stars": 130,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -1216,12 +2096,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Solidity starter template for developing smart contracts.",
+            "homepage": null,
             "id": 559357734,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-07-04T17:31:26Z",
+            "open_issues": 0,
             "owner": "mattstam",
             "repo": "solidity-template",
-            "stars": 116
+            "stars": 116,
+            "topics": [
+              "contracts",
+              "ethereum",
+              "ethersjs",
+              "foundry",
+              "hardhat",
+              "solidity",
+              "template",
+              "typescript",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -1232,12 +2127,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Solidity Hardhat Typescript Boilerplate",
+            "homepage": null,
             "id": 476687648,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-01-01T13:53:28Z",
+            "open_issues": 2,
             "owner": "emretepedev",
             "repo": "solidity-hardhat-typescript-boilerplate",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "blockchain",
+              "boilerplate",
+              "ethers",
+              "hardhat",
+              "solidity",
+              "template",
+              "typechain",
+              "typescript",
+              "waffle",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -1248,12 +2159,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An all-in-one Next.js-based dApp boilerplate featuring RainbowKit wallet authentication, Tailwind CSS styling, and wagmi Hooks.",
+            "homepage": "https://boilr3.vercel.app",
             "id": 611335845,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-12-31T01:06:35Z",
+            "open_issues": 2,
             "owner": "envoy1084",
             "repo": "boilr3",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "ethereum",
+              "nextjs",
+              "rainbowkit",
+              "starter-kit",
+              "tailwind-css",
+              "typescript",
+              "wagmi"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -1264,12 +2188,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A solana-scaffold-app is for beginners to set up and develop fast. ",
+            "homepage": null,
             "id": 457340519,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-02-10T03:13:50Z",
+            "open_issues": 0,
             "owner": "swaroopmaddu",
             "repo": "solana-dapp-scaffold",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -1280,12 +2209,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Starter repo for mini Lens API tutorial",
+            "homepage": null,
             "id": 530355423,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-09-03T21:55:25Z",
+            "open_issues": 0,
             "owner": "womenbuildweb3",
             "repo": "lens-api-starter",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         }
@@ -1302,12 +2236,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mastering Bitcoin 3rd Edition - Programming the Open Blockchain",
+            "homepage": "https://aantonop.com/books",
             "id": 12044132,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-26T18:18:32Z",
+            "open_issues": 191,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25296
+            "stars": 25297,
+            "topics": [
+              "bitcoin",
+              "bitcoin-api",
+              "blockchain",
+              "oreilly",
+              "oreilly-books"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -1318,12 +2263,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccolò Pozzolini",
+            "homepage": "https://masteringethereum.xyz/",
             "id": 65392364,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-13T14:04:25Z",
+            "open_issues": 2,
             "owner": "ethereumbook",
             "repo": "ethereumbook",
-            "stars": 21518
+            "stars": 21518,
+            "topics": [
+              "blockchain",
+              "book",
+              "dapp",
+              "devp2p",
+              "embark",
+              "ethereum",
+              "oreilly",
+              "smart-contracts",
+              "solidity",
+              "token",
+              "truffle-framework",
+              "web3js"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -1334,12 +2297,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mastering the Lightning Network (LN)",
+            "homepage": null,
             "id": 203856675,
             "language": "AsciiDoc",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2024-08-09T18:07:00Z",
+            "open_issues": 206,
             "owner": "lnbook",
             "repo": "lnbook",
-            "stars": 2959
+            "stars": 2960,
+            "topics": [
+              "bitcoin",
+              "blockchain",
+              "blockchains",
+              "c-lightning",
+              "lightning-network",
+              "ln",
+              "lnd",
+              "p2p",
+              "payments",
+              "peer"
+            ]
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         },
@@ -1350,12 +2329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "How the Web3 reinvents the Internet - Copyleft 2020, Shermin Voshmgir: Creative Commons – CC BY-NC-SA",
+            "homepage": null,
             "id": 318594866,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2025-05-17T17:01:31Z",
+            "open_issues": 3,
             "owner": "sherminvo",
             "repo": "TokenEconomyBook",
-            "stars": 811
+            "stars": 811,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
         }
@@ -1364,15 +2348,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:01:10.925Z",
+    "last_updated": "2026-08-29T04:30:57.273Z",
     "original_repository_info": {
       "archived": false,
+      "description": "The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol.",
+      "homepage": "https://blockchain-development-resources.netlify.app/",
       "id": 400041672,
       "language": "Markdown",
+      "license": "CC0-1.0",
       "last_commit": "2025-02-02T22:48:26Z",
+      "open_issues": 11,
       "owner": "frankiefab100",
       "repo": "Blockchain-Development-Resources",
-      "stars": 1570
+      "stars": 1570,
+      "topics": [
+        "awesome-list",
+        "awesome-readme",
+        "bitcoin",
+        "blockchain",
+        "dapps",
+        "decentralized-applications",
+        "defi",
+        "distributed-ledger",
+        "ethereum",
+        "hardhat",
+        "metamask",
+        "nft",
+        "polygon",
+        "smartcontracts",
+        "solana",
+        "solidity",
+        "truffle",
+        "vyper",
+        "web3",
+        "web3js"
+      ]
     },
     "original_repository_sha": "cfcee9a3d180cb80d7b1e1ddedf21d610ad22803",
     "enhanced_repository": "enhansome/enhansome-Blockchain-Development-Resources",
