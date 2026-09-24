@@ -15,11 +15,11 @@
             "id": 21938243,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-22T05:49:01Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-24T15:57:56Z",
+            "open_issues": 9,
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 59512,
+            "stars": 59529,
             "topics": [
               "awesome",
               "rust"
@@ -43,7 +43,7 @@
             "open_issues": 105,
             "owner": "smartcontractkit",
             "repo": "full-blockchain-solidity-course-js",
-            "stars": 14052,
+            "stars": 14053,
             "topics": [
               "alchemy",
               "blockchain",
@@ -111,10 +111,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-08-16T23:17:39Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10833,
+            "stars": 10834,
             "topics": [
               "awesome",
               "awesome-list",
@@ -188,7 +188,7 @@
             "open_issues": 20,
             "owner": "slowmist",
             "repo": "Blockchain-dark-forest-selfguard-handbook",
-            "stars": 6852,
+            "stars": 6853,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
@@ -206,10 +206,10 @@
             "language": "Solidity",
             "license": "Apache-2.0",
             "last_commit": "2026-09-21T03:04:38Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6796,
+            "stars": 6797,
             "topics": [
               "defi",
               "ethereum",
@@ -236,7 +236,7 @@
             "open_issues": 2,
             "owner": "Cyfrin",
             "repo": "foundry-full-course-cu",
-            "stars": 5863,
+            "stars": 5864,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
@@ -257,7 +257,7 @@
             "open_issues": 16,
             "owner": "matter-labs",
             "repo": "awesome-zero-knowledge-proofs",
-            "stars": 5840,
+            "stars": 5841,
             "topics": [
               "explaining-snarks",
               "knowledge-proofs",
@@ -305,7 +305,7 @@
             "open_issues": 136,
             "owner": "coinpride",
             "repo": "CryptoList",
-            "stars": 4486,
+            "stars": 4485,
             "topics": [
               "altcoins",
               "api",
@@ -373,7 +373,7 @@
             "open_issues": 5,
             "owner": "Scanate",
             "repo": "EthList",
-            "stars": 3872,
+            "stars": 3871,
             "topics": [
               "bitcoin",
               "blockchain",
@@ -408,7 +408,7 @@
             "open_issues": 60,
             "owner": "nakov",
             "repo": "Practical-Cryptography-for-Developers-Book",
-            "stars": 3828,
+            "stars": 3827,
             "topics": [
               "aes",
               "asymmetric-ciphers",
@@ -484,7 +484,7 @@
             "open_issues": 51,
             "owner": "yjjnls",
             "repo": "awesome-blockchain",
-            "stars": 3629,
+            "stars": 3630,
             "topics": [
               "awesome",
               "awesome-list",
@@ -526,7 +526,7 @@
             "open_issues": 2,
             "owner": "fravoll",
             "repo": "solidity-patterns",
-            "stars": 3322,
+            "stars": 3323,
             "topics": [
               "smart-contract",
               "solidity",
@@ -549,7 +549,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-05-17T21:39:23Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "rust-in-blockchain",
             "repo": "awesome-blockchain-rust",
             "stars": 2819,
@@ -610,7 +610,7 @@
             "open_issues": 5,
             "owner": "protofire",
             "repo": "blockchain-learning-path",
-            "stars": 2667,
+            "stars": 2668,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
@@ -631,7 +631,7 @@
             "open_issues": 58,
             "owner": "crytic",
             "repo": "building-secure-contracts",
-            "stars": 2479,
+            "stars": 2480,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
@@ -683,10 +683,10 @@
             "language": null,
             "license": null,
             "last_commit": "2025-03-25T11:02:54Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "immunefi-team",
             "repo": "Web3-Security-Library",
-            "stars": 2193,
+            "stars": 2192,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
@@ -785,7 +785,7 @@
             "open_issues": 3,
             "owner": "nosequeldeebee",
             "repo": "blockchain-tutorial",
-            "stars": 1601,
+            "stars": 1602,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
@@ -1007,7 +1007,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-08-28T14:42:04Z",
-            "open_issues": 1297,
+            "open_issues": 1299,
             "owner": "arddluma",
             "repo": "awesome-list-rpc-nodes-providers",
             "stars": 916,
@@ -1540,7 +1540,7 @@
             "open_issues": 2,
             "owner": "scaffold-eth",
             "repo": "scaffold-eth",
-            "stars": 9032,
+            "stars": 9033,
             "topics": [
               "buidler",
               "create-react-app",
@@ -1574,7 +1574,7 @@
             "open_issues": 176,
             "owner": "Uniswap",
             "repo": "web3-react",
-            "stars": 5684,
+            "stars": 5685,
             "topics": [
               "dapp",
               "ethereum",
@@ -1696,7 +1696,7 @@
             "open_issues": 19,
             "owner": "solana-labs",
             "repo": "dapp-scaffold",
-            "stars": 1815,
+            "stars": 1816,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
@@ -2245,7 +2245,7 @@
             "open_issues": 191,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25324,
+            "stars": 25328,
             "topics": [
               "bitcoin",
               "bitcoin-api",
@@ -2306,7 +2306,7 @@
             "open_issues": 207,
             "owner": "lnbook",
             "repo": "lnbook",
-            "stars": 2963,
+            "stars": 2964,
             "topics": [
               "bitcoin",
               "blockchain",
@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T19:04:27.506Z",
+    "last_updated": "2026-09-24T19:12:12.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol.",
