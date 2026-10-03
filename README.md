@@ -1,6 +1,6 @@
 ![BDR header](https://user-images.githubusercontent.com/46662771/132558872-9fb63b1d-5c15-470a-8a84-23464519ff15.jpg)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,674 | 🐛 106 | 📅 2026-09-02 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Blockchain%20Development%20Resources%20-%20A%20collection%20of%20FREE%20blockchain%20development%20learning%20resources%20by%20@frankiefab100\&url=https://github.com/frankiefab100/Blockchain-Development-Resources\&hashtags=blockchaindevelopment,web3,ethereum,smartcontract,blockchaindeveloper,solidity) [![Twitter Follow](https://img.shields.io/twitter/follow/frankiefab100?style=social)](https://twitter.com/frankiefab100)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,795 | 🐛 106 | 📅 2026-09-02 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Blockchain%20Development%20Resources%20-%20A%20collection%20of%20FREE%20blockchain%20development%20learning%20resources%20by%20@frankiefab100\&url=https://github.com/frankiefab100/Blockchain-Development-Resources\&hashtags=blockchaindevelopment,web3,ethereum,smartcontract,blockchaindeveloper,solidity) [![Twitter Follow](https://img.shields.io/twitter/follow/frankiefab100?style=social)](https://twitter.com/frankiefab100)
 
 # Awesome Blockchain Development Resources with stars
 
@@ -159,13 +159,13 @@ It comprises of links to a range of topics like Introduction to Blockchain techn
 
 ## GitHub Repositories
 
-* [Awesome rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,644 | 🐛 9 | 🌐 Rust | 📅 2026-10-01
-* [Full blockchain solidity course javascript](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) ⭐ 14,054 | 🐛 105 | 📅 2024-06-12
+* [Awesome rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,657 | 🐛 9 | 🌐 Rust | 📅 2026-10-01
+* [Full blockchain solidity course javascript](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) ⭐ 14,055 | 🐛 105 | 📅 2024-06-12
 * [Full blockchain solidity course python](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) ⭐ 11,220 | 🐛 225 | 📅 2024-04-16
-* [DeFi developer roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,844 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-16
+* [DeFi developer roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,846 | 🐛 10 | 🌐 JavaScript | 📅 2026-08-16
 * [Awesome solidity](https://github.com/bkrem/awesome-solidity) ⭐ 7,051 | 🐛 14 | 📅 2026-09-25
 * [Blockchain Dark Forest selfguard handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) ⭐ 6,855 | 🐛 20 | 📅 2025-10-12
-* [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,803 | 🐛 5 | 🌐 Solidity | 📅 2026-10-02
+* [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) ⭐ 6,803 | 🐛 4 | 🌐 Solidity | 📅 2026-10-03
 * [Learn Solidity, Blockchain Development, & Smart Contracts | Powered By AI ](https://github.com/Cyfrin/foundry-full-course-f23) ⭐ 5,868 | 🐛 2 | 📅 2026-07-08
 * [Awesome zero knowledge proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) ⭐ 5,843 | 🐛 17 | 📅 2026-01-23
 * [Ethereum developer tools list](https://github.com/ConsenSys/ethereum-developer-tools-list) ⚠️ Archived
@@ -176,7 +176,7 @@ It comprises of links to a range of topics like Introduction to Blockchain techn
 * [Awesome blockchains](https://github.com/openblockchains/awesome-blockchains) ⭐ 3,781 | 🐛 7 | 🌐 Ruby | 📅 2023-02-10
 * [Awesome blockchain](https://github.com/yjjnls/awesome-blockchain) ⭐ 3,632 | 🐛 51 | 🌐 Go | 📅 2024-03-22
 * [Solidity patterns](https://github.com/fravoll/solidity-patterns) ⭐ 3,324 | 🐛 2 | 🌐 Solidity | 📅 2024-04-19
-* [Awesome blockchain rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) ⭐ 2,820 | 🐛 19 | 📅 2026-05-17
+* [Awesome blockchain rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) ⭐ 2,821 | 🐛 19 | 📅 2026-05-17
 * [Typechain](https://github.com/dethcrypto/TypeChain) ⭐ 2,789 | 🐛 127 | 🌐 TypeScript | 📅 2024-07-10
 * [Blockchain learning path](https://github.com/protofire/blockchain-learning-path) ⭐ 2,669 | 🐛 5 | 📅 2024-05-31
 * [Building secure contracts](https://github.com/crytic/building-secure-contracts) ⭐ 2,484 | 🐛 60 | 🌐 Solidity | 📅 2026-04-13
@@ -194,7 +194,7 @@ It comprises of links to a range of topics like Introduction to Blockchain techn
 * [Blockchain development guide](https://github.com/dcbuild3r/blockchain-development-guide) ⭐ 1,344 | 🐛 4 | 📅 2023-08-13
 * [Metaschool learning projects](https://github.com/0xmetaschool/Learning-Projects) ⭐ 996 | 🐛 163 | 🌐 Solidity | 📅 2025-03-03
 * [Journey to become a blockchain engineer](https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer) ⭐ 945 | 🐛 1 | 🌐 Solidity | 📅 2023-04-26
-* [Awesome list rpc nodes providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers) ⭐ 915 | 🐛 1,308 | 📅 2025-08-28
+* [Awesome list rpc nodes providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers) ⭐ 916 | 🐛 1,309 | 📅 2025-08-28
 * [Decentralized Applications](https://github.com/DavidJohnstonCEO/DecentralizedApplications) ⭐ 879 | 🐛 10 | 📅 2020-11-12
 * [Blockchain for software engineers](https://github.com/benstew/blockchain-for-software-engineers) ⭐ 800 | 🐛 5 | 📅 2023-06-02
 * [Awesome openzeppelin](https://github.com/OpenZeppelin/awesome-openzeppelin) ⭐ 767 | 🐛 4 | 📅 2023-02-08
@@ -335,13 +335,13 @@ It comprises of links to a range of topics like Introduction to Blockchain techn
 * [Create-web3-frontend](https://github.com/Dhaiwat10/create-web3-frontend) ⭐ 168 | 🐛 3 | 🌐 TypeScript | 📅 2024-02-26
 * [Lens protocol frontend](https://github.com/dabit3/lens-protocol-frontend) ⭐ 134 | 🐛 2 | 🌐 JavaScript | 📅 2023-05-04
 * [Solidity hardhat boilerplate](https://github.com/defi-wonderland/solidity-hardhat-boilerplate) ⚠️ Archived
-* [Solidity template](https://github.com/mattstam/solidity-template) ⭐ 116 | 🐛 1 | 🌐 TypeScript | 📅 2023-07-04
 * [Solidity hardhat typescript boilerplate](https://github.com/emretepedev/solidity-hardhat-typescript-boilerplate) ⚠️ Archived
 * [Boilr3](https://github.com/Envoy-VC/boilr3) ⭐ 30 | 🐛 2 | 🌐 TypeScript | 📅 2023-12-31
 * [Solana dapp scaffold](https://github.com/swaroopmaddu/solana-dapp-scaffold) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2022-02-10
 * [Lens API starter](https://github.com/womenbuildweb3/lens-api-starter) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2022-09-03
 * [Wagmi.sh](https://wagmi.sh/)
 * [Eth-hooks](https://scaffold-eth.github.io/eth-hooks/)
+* [Solidity template](https://github.com/mattstam/solidity-template)
 
 <div align="right">
     <b><a href="##table-of-contents">↥ Back To Top</a></b>
@@ -440,4 +440,4 @@ It comprises of links to a range of topics like Introduction to Blockchain techn
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

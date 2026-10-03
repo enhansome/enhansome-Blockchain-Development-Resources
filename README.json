@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Awesome rust",
-          "description": null,
+          "description": "rust-unofficial/awesome-rust",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 59644,
+            "stars": 59657,
             "topics": [
               "awesome",
               "rust"
@@ -30,7 +30,7 @@
         {
           "node_type": "item",
           "title": "Full blockchain solidity course javascript",
-          "description": null,
+          "description": "smartcontractkit/full-blockchain-solidity-course-js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -43,7 +43,7 @@
             "open_issues": 105,
             "owner": "smartcontractkit",
             "repo": "full-blockchain-solidity-course-js",
-            "stars": 14054,
+            "stars": 14055,
             "topics": [
               "alchemy",
               "blockchain",
@@ -72,7 +72,7 @@
         {
           "node_type": "item",
           "title": "Full blockchain solidity course python",
-          "description": null,
+          "description": "smartcontractkit/full-blockchain-solidity-course-py",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -101,7 +101,7 @@
         {
           "node_type": "item",
           "title": "DeFi developer roadmap",
-          "description": null,
+          "description": "OffcierCia/DeFi-Developer-Road-Map",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -114,7 +114,7 @@
             "open_issues": 10,
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10844,
+            "stars": 10846,
             "topics": [
               "awesome",
               "awesome-list",
@@ -133,7 +133,7 @@
         {
           "node_type": "item",
           "title": "Awesome solidity",
-          "description": null,
+          "description": "bkrem/awesome-solidity",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -175,7 +175,7 @@
         {
           "node_type": "item",
           "title": "Blockchain Dark Forest selfguard handbook",
-          "description": null,
+          "description": "slowmist/Blockchain-dark-forest-selfguard-handbook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -196,7 +196,7 @@
         {
           "node_type": "item",
           "title": "DeFiHackLabs",
-          "description": null,
+          "description": "SunWeb3Sec/DeFiHackLabs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -205,8 +205,8 @@
             "id": 501990676,
             "language": "Solidity",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T03:08:37Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-03T03:01:52Z",
+            "open_issues": 4,
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
             "stars": 6803,
@@ -223,7 +223,7 @@
         {
           "node_type": "item",
           "title": "Learn Solidity, Blockchain Development, & Smart Contracts | Powered By AI",
-          "description": null,
+          "description": "Cyfrin/foundry-full-course-cu",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -244,7 +244,7 @@
         {
           "node_type": "item",
           "title": "Awesome zero knowledge proofs",
-          "description": null,
+          "description": "matter-labs/awesome-zero-knowledge-proofs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -271,7 +271,7 @@
         {
           "node_type": "item",
           "title": "Ethereum developer tools list",
-          "description": null,
+          "description": "Consensys/ethereum-developer-tools-list",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -292,7 +292,7 @@
         {
           "node_type": "item",
           "title": "Crypto List",
-          "description": null,
+          "description": "coinpride/CryptoList",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -330,7 +330,7 @@
         {
           "node_type": "item",
           "title": "Eat the blocks",
-          "description": null,
+          "description": "jklepatch/eattheblocks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -360,7 +360,7 @@
         {
           "node_type": "item",
           "title": "The Crowdsourced Comprehensive Ethereum Reading List",
-          "description": null,
+          "description": "Scanate/EthList",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -395,7 +395,7 @@
         {
           "node_type": "item",
           "title": "Practical cryptography for developers book",
-          "description": null,
+          "description": "nakov/Practical-Cryptography-for-Developers-Book",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -435,7 +435,7 @@
         {
           "node_type": "item",
           "title": "Awesome blockchains",
-          "description": null,
+          "description": "openblockchains/awesome-blockchains",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -471,7 +471,7 @@
         {
           "node_type": "item",
           "title": "Awesome blockchain",
-          "description": null,
+          "description": "yjjnls/awesome-blockchain",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -513,7 +513,7 @@
         {
           "node_type": "item",
           "title": "Solidity patterns",
-          "description": null,
+          "description": "fravoll/solidity-patterns",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -539,7 +539,7 @@
         {
           "node_type": "item",
           "title": "Awesome blockchain rust",
-          "description": null,
+          "description": "rust-in-blockchain/awesome-blockchain-rust",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -552,7 +552,7 @@
             "open_issues": 19,
             "owner": "rust-in-blockchain",
             "repo": "awesome-blockchain-rust",
-            "stars": 2820,
+            "stars": 2821,
             "topics": [
               "awesome",
               "blockchain",
@@ -567,7 +567,7 @@
         {
           "node_type": "item",
           "title": "Typechain",
-          "description": null,
+          "description": "dethcrypto/TypeChain",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -597,7 +597,7 @@
         {
           "node_type": "item",
           "title": "Blockchain learning path",
-          "description": null,
+          "description": "protofire/blockchain-learning-path",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -618,7 +618,7 @@
         {
           "node_type": "item",
           "title": "Building secure contracts",
-          "description": null,
+          "description": "crytic/building-secure-contracts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -639,7 +639,7 @@
         {
           "node_type": "item",
           "title": "Ultimate DeFi research base",
-          "description": null,
+          "description": "OffcierCia/ultimate-defi-research-base",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -673,7 +673,7 @@
         {
           "node_type": "item",
           "title": "Web3 security library",
-          "description": null,
+          "description": "immunefi-team/Web3-Security-Library",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -694,7 +694,7 @@
         {
           "node_type": "item",
           "title": "Solidity security",
-          "description": null,
+          "description": "transmissions11/solcurity",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -715,7 +715,7 @@
         {
           "node_type": "item",
           "title": "DeFiVulnLabs",
-          "description": null,
+          "description": "SunWeb3Sec/DeFiVulnLabs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -742,7 +742,7 @@
         {
           "node_type": "item",
           "title": "Awesome cryptoeconomics",
-          "description": null,
+          "description": "jpantunes/awesome-cryptoeconomics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -772,7 +772,7 @@
         {
           "node_type": "item",
           "title": "Blockchain tutorial",
-          "description": null,
+          "description": "nosequeldeebee/blockchain-tutorial",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -793,7 +793,7 @@
         {
           "node_type": "item",
           "title": "Awesome ZK",
-          "description": null,
+          "description": "ventali/awesome-zk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -814,7 +814,7 @@
         {
           "node_type": "item",
           "title": "Solidity security blog",
-          "description": null,
+          "description": "sigp/solidity-security-blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -835,7 +835,7 @@
         {
           "node_type": "item",
           "title": "Solidity Cheatsheet",
-          "description": null,
+          "description": "manojpramesh/solidity-cheatsheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -862,7 +862,7 @@
         {
           "node_type": "item",
           "title": "Awesome ethereum security",
-          "description": null,
+          "description": "crytic/awesome-ethereum-security",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -888,7 +888,7 @@
         {
           "node_type": "item",
           "title": "EVM Opcodes",
-          "description": null,
+          "description": "crytic/evm-opcodes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -914,7 +914,7 @@
         {
           "node_type": "item",
           "title": "Blockchain development guide",
-          "description": null,
+          "description": "dcbuild3r/blockchain-development-guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -942,7 +942,7 @@
         {
           "node_type": "item",
           "title": "Metaschool learning projects",
-          "description": null,
+          "description": "0xmetaschool/Learning-Projects",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -963,7 +963,7 @@
         {
           "node_type": "item",
           "title": "Journey to become a blockchain engineer",
-          "description": null,
+          "description": "spo0ds/Journey-to-become-a-Blockchain-Engineer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -997,7 +997,7 @@
         {
           "node_type": "item",
           "title": "Awesome list rpc nodes providers",
-          "description": null,
+          "description": "arddluma/awesome-list-rpc-nodes-providers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1007,10 +1007,10 @@
             "language": null,
             "license": null,
             "last_commit": "2025-08-28T14:42:04Z",
-            "open_issues": 1308,
+            "open_issues": 1309,
             "owner": "arddluma",
             "repo": "awesome-list-rpc-nodes-providers",
-            "stars": 915,
+            "stars": 916,
             "topics": [
               "account-abstraction",
               "avalanche",
@@ -1037,7 +1037,7 @@
         {
           "node_type": "item",
           "title": "Decentralized Applications",
-          "description": null,
+          "description": "DavidAJohnston/DecentralizedApplications",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1058,7 +1058,7 @@
         {
           "node_type": "item",
           "title": "Blockchain for software engineers",
-          "description": null,
+          "description": "benstew/blockchain-for-software-engineers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1079,7 +1079,7 @@
         {
           "node_type": "item",
           "title": "Awesome openzeppelin",
-          "description": null,
+          "description": "OpenZeppelin/awesome-openzeppelin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1105,7 +1105,7 @@
         {
           "node_type": "item",
           "title": "Awesome ZkEVM",
-          "description": null,
+          "description": "LuozhuZhang/awesome-zkevm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1138,7 +1138,7 @@
         {
           "node_type": "item",
           "title": "Solana course",
-          "description": null,
+          "description": "Unboxed-Software/solana-course",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1162,7 +1162,7 @@
         {
           "node_type": "item",
           "title": "Solidity by examples",
-          "description": null,
+          "description": "raineorshine/solidity-by-example",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1186,7 +1186,7 @@
         {
           "node_type": "item",
           "title": "Solidity school",
-          "description": null,
+          "description": "Aniket-Engg/solidity-school",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1214,7 +1214,7 @@
         {
           "node_type": "item",
           "title": "Awesome solidity BlockchainLabs",
-          "description": null,
+          "description": "BlockchainLabsNZ/awesome-solidity",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1244,7 +1244,7 @@
         {
           "node_type": "item",
           "title": "Solidity notes",
-          "description": null,
+          "description": "0xpranay/solidity-notes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1265,7 +1265,7 @@
         {
           "node_type": "item",
           "title": "Decentralized Websites",
-          "description": null,
+          "description": "unstoppabledomains/decentralized-websites",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1286,7 +1286,7 @@
         {
           "node_type": "item",
           "title": "Learn solidity with examples",
-          "description": null,
+          "description": "JamesANZ/learn-solidity-with-examples",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1314,7 +1314,7 @@
         {
           "node_type": "item",
           "title": "Web3.0 Roadmap",
-          "description": null,
+          "description": "frankiefab100/Web3.0-Roadmap",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1345,7 +1345,7 @@
         {
           "node_type": "item",
           "title": "Web3 Terms",
-          "description": null,
+          "description": "Olanetsoft/web3terms",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1377,7 +1377,7 @@
         {
           "node_type": "item",
           "title": "Smart contract resources",
-          "description": null,
+          "description": "ErichDylus/Smart-Contract-Resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1398,7 +1398,7 @@
         {
           "node_type": "item",
           "title": "Solidity trivias",
-          "description": null,
+          "description": "eternauta1337/trivias",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1419,7 +1419,7 @@
         {
           "node_type": "item",
           "title": "Learning solidity",
-          "description": null,
+          "description": "pbrudny/learning-solidity-2018",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1445,7 +1445,7 @@
         {
           "node_type": "item",
           "title": "Solidity 101",
-          "description": null,
+          "description": "l-henri/solidity-101",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1466,7 +1466,7 @@
         {
           "node_type": "item",
           "title": "Web2 to web3 resources",
-          "description": null,
+          "description": "decentology/web2-to-web3-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1492,7 +1492,7 @@
         {
           "node_type": "item",
           "title": "Awesome aeternity",
-          "description": null,
+          "description": "aeternity/awesome-aeternity",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1527,7 +1527,7 @@
         {
           "node_type": "item",
           "title": "Scaffold-Eth",
-          "description": null,
+          "description": "scaffold-eth/scaffold-eth",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1561,7 +1561,7 @@
         {
           "node_type": "item",
           "title": "Web3-react",
-          "description": null,
+          "description": "Uniswap/web3-react",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1588,7 +1588,7 @@
         {
           "node_type": "item",
           "title": "Ethereum Boilerplate",
-          "description": null,
+          "description": "ethereum-boilerplate/ethereum-boilerplate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1623,7 +1623,7 @@
         {
           "node_type": "item",
           "title": "Create-eth-app",
-          "description": null,
+          "description": "WalletConnect/create-eth-app",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1652,7 +1652,7 @@
         {
           "node_type": "item",
           "title": "Hardhat template",
-          "description": null,
+          "description": "PaulRBerg/hardhat-template",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1683,7 +1683,7 @@
         {
           "node_type": "item",
           "title": "Dapp scaffold",
-          "description": null,
+          "description": "solana-labs/dapp-scaffold",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1704,7 +1704,7 @@
         {
           "node_type": "item",
           "title": "Web3ui kit",
-          "description": null,
+          "description": "web3ui/web3uikit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1742,7 +1742,7 @@
         {
           "node_type": "item",
           "title": "Create-web3-dapp",
-          "description": null,
+          "description": "alchemyplatform/create-web3-dapp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1774,7 +1774,7 @@
         {
           "node_type": "item",
           "title": "Web3-ui",
-          "description": null,
+          "description": "Developer-DAO/web3-ui",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1801,7 +1801,7 @@
         {
           "node_type": "item",
           "title": "Nexth",
-          "description": null,
+          "description": "wslyvh/nexth",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1830,7 +1830,7 @@
         {
           "node_type": "item",
           "title": "Typescript Solidity Dev Starter Kit",
-          "description": null,
+          "description": "rhlsthrm/typescript-solidity-dev-starter-kit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1857,7 +1857,7 @@
         {
           "node_type": "item",
           "title": "template-web3-app",
-          "description": null,
+          "description": "turbo-eth/template-web3-app",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1890,7 +1890,7 @@
         {
           "node_type": "item",
           "title": "create-near-app",
-          "description": null,
+          "description": "near/create-near-app",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1916,7 +1916,7 @@
         {
           "node_type": "item",
           "title": "Buildspace dao starter",
-          "description": null,
+          "description": "buildspace/buildspace-dao-starter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1937,7 +1937,7 @@
         {
           "node_type": "item",
           "title": "Nextjs dapp starter ts",
-          "description": null,
+          "description": "G3root/nextjs-dapp-starter-ts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1970,7 +1970,7 @@
         {
           "node_type": "item",
           "title": "Polygon dapp starter kit",
-          "description": null,
+          "description": "Polygon-Academy/starter-kits",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1991,7 +1991,7 @@
         {
           "node_type": "item",
           "title": "Solidity foundry boilerplate",
-          "description": null,
+          "description": "defi-wonderland/solidity-foundry-boilerplate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2019,7 +2019,7 @@
         {
           "node_type": "item",
           "title": "Create-web3-frontend",
-          "description": null,
+          "description": "Dhaiwat10/create-web3-frontend",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2050,7 +2050,7 @@
         {
           "node_type": "item",
           "title": "Lens protocol frontend",
-          "description": null,
+          "description": "dabit3/lens-protocol-frontend",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2071,7 +2071,7 @@
         {
           "node_type": "item",
           "title": "Solidity hardhat boilerplate",
-          "description": null,
+          "description": "defi-wonderland/solidity-hardhat-boilerplate",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2091,39 +2091,8 @@
         },
         {
           "node_type": "item",
-          "title": "Solidity template",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Solidity starter template for developing smart contracts.",
-            "homepage": null,
-            "id": 559357734,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2023-07-04T17:31:26Z",
-            "open_issues": 1,
-            "owner": "mattstam",
-            "repo": "solidity-template",
-            "stars": 116,
-            "topics": [
-              "contracts",
-              "ethereum",
-              "ethersjs",
-              "foundry",
-              "hardhat",
-              "solidity",
-              "template",
-              "typescript",
-              "web3"
-            ]
-          },
-          "first_seen": "2026-08-29T00:01:10.925Z"
-        },
-        {
-          "node_type": "item",
           "title": "Solidity hardhat typescript boilerplate",
-          "description": null,
+          "description": "emretepedev/solidity-hardhat-typescript-boilerplate",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2155,7 +2124,7 @@
         {
           "node_type": "item",
           "title": "Boilr3",
-          "description": null,
+          "description": "envoy1084/boilr3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2184,7 +2153,7 @@
         {
           "node_type": "item",
           "title": "Solana dapp scaffold",
-          "description": null,
+          "description": "swaroopmaddu/solana-dapp-scaffold",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2205,7 +2174,7 @@
         {
           "node_type": "item",
           "title": "Lens API starter",
-          "description": null,
+          "description": "womenbuildweb3/lens-api-starter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2232,7 +2201,7 @@
         {
           "node_type": "item",
           "title": "Mastering Bitcoin: Programming the Open Blockchain - Andreas M. Antonopoulos",
-          "description": null,
+          "description": "bitcoinbook/bitcoinbook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2259,7 +2228,7 @@
         {
           "node_type": "item",
           "title": "Mastering Ethereum: Building Smart Contracts and DApps - Andreas Antonopoulos & Dr. Gavin Wood",
-          "description": null,
+          "description": "ethereumbook/ethereumbook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2293,7 +2262,7 @@
         {
           "node_type": "item",
           "title": "Mastering the Lightning Network: A Second Layer Blockchain Protocol for Instant Bitcoin Payments - Andreas Antonopoulos, Olaoluwa Osuntokun & Rene Pickhardt",
-          "description": null,
+          "description": "lnbook/lnbook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2325,7 +2294,7 @@
         {
           "node_type": "item",
           "title": "Token Economy : How the Web3 reinvents the internet - Shermin Voshmgir",
-          "description": null,
+          "description": "sherminvo/TokenEconomyBook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2348,7 +2317,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:57:37.315Z",
+    "last_updated": "2026-10-03T04:30:57.501Z",
     "original_repository_info": {
       "archived": false,
       "description": "The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol.",
