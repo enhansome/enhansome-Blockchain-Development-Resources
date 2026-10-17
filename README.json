@@ -15,11 +15,11 @@
             "id": 21938243,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-16T17:00:07Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-17T15:03:51Z",
+            "open_issues": 8,
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 59895,
+            "stars": 59914,
             "topics": [
               "awesome",
               "rust"
@@ -85,7 +85,7 @@
             "open_issues": 225,
             "owner": "smartcontractkit",
             "repo": "full-blockchain-solidity-course-py",
-            "stars": 11216,
+            "stars": 11215,
             "topics": [
               "blockchain",
               "chainlink",
@@ -209,7 +209,7 @@
             "open_issues": 2,
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6818,
+            "stars": 6822,
             "topics": [
               "defi",
               "ethereum",
@@ -236,7 +236,7 @@
             "open_issues": 2,
             "owner": "Cyfrin",
             "repo": "foundry-full-course-cu",
-            "stars": 5869,
+            "stars": 5871,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
@@ -408,7 +408,7 @@
             "open_issues": 60,
             "owner": "nakov",
             "repo": "Practical-Cryptography-for-Developers-Book",
-            "stars": 3835,
+            "stars": 3836,
             "topics": [
               "aes",
               "asymmetric-ciphers",
@@ -927,7 +927,7 @@
             "open_issues": 4,
             "owner": "dcbuild3r",
             "repo": "blockchain-development-guide",
-            "stars": 1345,
+            "stars": 1344,
             "topics": [
               "blockchain-development",
               "decentralized-finance",
@@ -1007,7 +1007,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-08-28T14:42:04Z",
-            "open_issues": 1323,
+            "open_issues": 1324,
             "owner": "arddluma",
             "repo": "awesome-list-rpc-nodes-providers",
             "stars": 916,
@@ -1050,7 +1050,7 @@
             "open_issues": 10,
             "owner": "DavidAJohnston",
             "repo": "DecentralizedApplications",
-            "stars": 878,
+            "stars": 879,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
@@ -1539,7 +1539,7 @@
             "open_issues": 2,
             "owner": "scaffold-eth",
             "repo": "scaffold-eth",
-            "stars": 9030,
+            "stars": 9031,
             "topics": [
               "buidler",
               "create-react-app",
@@ -2240,7 +2240,7 @@
             "open_issues": 1,
             "owner": "ethereumbook",
             "repo": "ethereumbook",
-            "stars": 21534,
+            "stars": 21535,
             "topics": [
               "blockchain",
               "book",
@@ -2274,7 +2274,7 @@
             "open_issues": 207,
             "owner": "lnbook",
             "repo": "lnbook",
-            "stars": 2967,
+            "stars": 2968,
             "topics": [
               "bitcoin",
               "blockchain",
@@ -2316,7 +2316,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:49:13.355Z",
+    "last_updated": "2026-10-17T17:52:11.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol.",
