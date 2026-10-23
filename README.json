@@ -15,11 +15,11 @@
             "id": 21938243,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-21T10:29:55Z",
+            "last_commit": "2026-10-23T17:21:58Z",
             "open_issues": 9,
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 60031,
+            "stars": 60056,
             "topics": [
               "awesome",
               "rust"
@@ -85,7 +85,7 @@
             "open_issues": 225,
             "owner": "smartcontractkit",
             "repo": "full-blockchain-solidity-course-py",
-            "stars": 11218,
+            "stars": 11217,
             "topics": [
               "blockchain",
               "chainlink",
@@ -114,7 +114,7 @@
             "open_issues": 4,
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10867,
+            "stars": 10869,
             "topics": [
               "awesome",
               "awesome-list",
@@ -146,7 +146,7 @@
             "open_issues": 18,
             "owner": "bkrem",
             "repo": "awesome-solidity",
-            "stars": 7059,
+            "stars": 7060,
             "topics": [
               "awesome",
               "awesome-list",
@@ -188,7 +188,7 @@
             "open_issues": 20,
             "owner": "slowmist",
             "repo": "Blockchain-dark-forest-selfguard-handbook",
-            "stars": 6864,
+            "stars": 6865,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
@@ -209,7 +209,7 @@
             "open_issues": 4,
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6825,
+            "stars": 6824,
             "topics": [
               "defi",
               "ethereum",
@@ -236,7 +236,7 @@
             "open_issues": 2,
             "owner": "Cyfrin",
             "repo": "foundry-full-course-cu",
-            "stars": 5874,
+            "stars": 5873,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
@@ -305,7 +305,7 @@
             "open_issues": 136,
             "owner": "coinpride",
             "repo": "CryptoList",
-            "stars": 4489,
+            "stars": 4490,
             "topics": [
               "altcoins",
               "api",
@@ -445,10 +445,10 @@
             "language": "Ruby",
             "license": "CC0-1.0",
             "last_commit": "2023-02-10T16:37:58Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "openblockchains",
             "repo": "awesome-blockchains",
-            "stars": 3785,
+            "stars": 3786,
             "topics": [
               "blockchain",
               "content-addressable-storage",
@@ -484,7 +484,7 @@
             "open_issues": 10,
             "owner": "yjjnls",
             "repo": "awesome-blockchain",
-            "stars": 3637,
+            "stars": 3639,
             "topics": [
               "awesome",
               "awesome-list",
@@ -631,7 +631,7 @@
             "open_issues": 61,
             "owner": "crytic",
             "repo": "building-secure-contracts",
-            "stars": 2480,
+            "stars": 2481,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
@@ -728,7 +728,7 @@
             "open_issues": 2,
             "owner": "SunWeb3Sec",
             "repo": "DeFiVulnLabs",
-            "stars": 1981,
+            "stars": 1982,
             "topics": [
               "defi",
               "ethereum",
@@ -955,7 +955,7 @@
             "open_issues": 163,
             "owner": "0xmetaschool",
             "repo": "Learning-Projects",
-            "stars": 996,
+            "stars": 995,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
@@ -1007,7 +1007,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-08-28T14:42:04Z",
-            "open_issues": 1331,
+            "open_issues": 1332,
             "owner": "arddluma",
             "repo": "awesome-list-rpc-nodes-providers",
             "stars": 915,
@@ -1071,7 +1071,7 @@
             "open_issues": 5,
             "owner": "benstew",
             "repo": "blockchain-for-software-engineers",
-            "stars": 800,
+            "stars": 801,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
@@ -1744,7 +1744,7 @@
           "description": "alchemyplatform/create-web3-dapp",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "The complete toolbox to create web3 applications. ",
             "homepage": "https://docs.alchemy.com",
             "id": 519914628,
@@ -2213,7 +2213,7 @@
             "open_issues": 192,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25333,
+            "stars": 25335,
             "topics": [
               "bitcoin",
               "bitcoin-api",
@@ -2274,7 +2274,7 @@
             "open_issues": 207,
             "owner": "lnbook",
             "repo": "lnbook",
-            "stars": 2968,
+            "stars": 2969,
             "topics": [
               "bitcoin",
               "blockchain",
@@ -2316,7 +2316,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T19:13:45.693Z",
+    "last_updated": "2026-10-23T19:16:08.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol.",
@@ -2325,7 +2325,7 @@
       "language": "Markdown",
       "license": "CC0-1.0",
       "last_commit": "2025-02-02T22:48:26Z",
-      "open_issues": 15,
+      "open_issues": 16,
       "owner": "frankiefab100",
       "repo": "Blockchain-Development-Resources",
       "stars": 1575,
