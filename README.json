@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 60056,
+            "stars": 60082,
             "topics": [
               "awesome",
               "rust"
@@ -111,10 +111,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-20T15:42:14Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10869,
+            "stars": 10870,
             "topics": [
               "awesome",
               "awesome-list",
@@ -146,7 +146,7 @@
             "open_issues": 18,
             "owner": "bkrem",
             "repo": "awesome-solidity",
-            "stars": 7060,
+            "stars": 7061,
             "topics": [
               "awesome",
               "awesome-list",
@@ -188,7 +188,7 @@
             "open_issues": 20,
             "owner": "slowmist",
             "repo": "Blockchain-dark-forest-selfguard-handbook",
-            "stars": 6865,
+            "stars": 6864,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
@@ -205,7 +205,7 @@
             "id": 501990676,
             "language": "Solidity",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T16:07:35Z",
+            "last_commit": "2026-10-24T03:01:31Z",
             "open_issues": 4,
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
@@ -481,7 +481,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-09T05:04:58Z",
-            "open_issues": 10,
+            "open_issues": 12,
             "owner": "yjjnls",
             "repo": "awesome-blockchain",
             "stars": 3639,
@@ -552,7 +552,7 @@
             "open_issues": 19,
             "owner": "rust-in-blockchain",
             "repo": "awesome-blockchain-rust",
-            "stars": 2826,
+            "stars": 2825,
             "topics": [
               "awesome",
               "blockchain",
@@ -1007,7 +1007,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-08-28T14:42:04Z",
-            "open_issues": 1332,
+            "open_issues": 1333,
             "owner": "arddluma",
             "repo": "awesome-list-rpc-nodes-providers",
             "stars": 915,
@@ -1071,7 +1071,7 @@
             "open_issues": 5,
             "owner": "benstew",
             "repo": "blockchain-for-software-engineers",
-            "stars": 801,
+            "stars": 802,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
@@ -1664,7 +1664,7 @@
             "open_issues": 2,
             "owner": "PaulRBerg",
             "repo": "hardhat-template",
-            "stars": 1970,
+            "stars": 1969,
             "topics": [
               "blockchain",
               "ethereum",
@@ -1898,8 +1898,8 @@
             "id": 216919760,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-01T15:53:48Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-24T16:42:32Z",
+            "open_issues": 0,
             "owner": "near",
             "repo": "create-near-app",
             "stars": 365,
@@ -2213,7 +2213,7 @@
             "open_issues": 192,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25335,
+            "stars": 25334,
             "topics": [
               "bitcoin",
               "bitcoin-api",
@@ -2316,7 +2316,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T19:16:08.873Z",
+    "last_updated": "2026-10-24T18:10:55.724Z",
     "original_repository_info": {
       "archived": false,
       "description": "The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol.",
