@@ -15,11 +15,11 @@
             "id": 21938243,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-26T14:37:06Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-27T17:39:19Z",
+            "open_issues": 8,
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 60143,
+            "stars": 60154,
             "topics": [
               "awesome",
               "rust"
@@ -85,7 +85,7 @@
             "open_issues": 225,
             "owner": "smartcontractkit",
             "repo": "full-blockchain-solidity-course-py",
-            "stars": 11218,
+            "stars": 11216,
             "topics": [
               "blockchain",
               "chainlink",
@@ -114,7 +114,7 @@
             "open_issues": 7,
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10876,
+            "stars": 10874,
             "topics": [
               "awesome",
               "awesome-list",
@@ -188,7 +188,7 @@
             "open_issues": 20,
             "owner": "slowmist",
             "repo": "Blockchain-dark-forest-selfguard-handbook",
-            "stars": 6863,
+            "stars": 6862,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
@@ -205,7 +205,7 @@
             "id": 501990676,
             "language": "Solidity",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T03:00:49Z",
+            "last_commit": "2026-10-27T03:01:22Z",
             "open_issues": 5,
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
@@ -236,7 +236,7 @@
             "open_issues": 2,
             "owner": "Cyfrin",
             "repo": "foundry-full-course-cu",
-            "stars": 5876,
+            "stars": 5875,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
@@ -244,7 +244,7 @@
         {
           "node_type": "item",
           "title": "Awesome zero knowledge proofs",
-          "description": "matter-labs/awesome-zero-knowledge-proofs",
+          "description": "matter-labs-archive/awesome-zero-knowledge-proofs",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -255,9 +255,9 @@
             "license": "NOASSERTION",
             "last_commit": "2026-10-21T16:33:02Z",
             "open_issues": 0,
-            "owner": "matter-labs",
+            "owner": "matter-labs-archive",
             "repo": "awesome-zero-knowledge-proofs",
-            "stars": 5849,
+            "stars": 5850,
             "topics": [
               "explaining-snarks",
               "knowledge-proofs",
@@ -305,7 +305,7 @@
             "open_issues": 135,
             "owner": "coinpride",
             "repo": "CryptoList",
-            "stars": 4490,
+            "stars": 4489,
             "topics": [
               "altcoins",
               "api",
@@ -408,7 +408,7 @@
             "open_issues": 60,
             "owner": "nakov",
             "repo": "Practical-Cryptography-for-Developers-Book",
-            "stars": 3840,
+            "stars": 3841,
             "topics": [
               "aes",
               "asymmetric-ciphers",
@@ -481,10 +481,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-09T05:04:58Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "yjjnls",
             "repo": "awesome-blockchain",
-            "stars": 3639,
+            "stars": 3638,
             "topics": [
               "awesome",
               "awesome-list",
@@ -526,7 +526,7 @@
             "open_issues": 2,
             "owner": "fravoll",
             "repo": "solidity-patterns",
-            "stars": 3325,
+            "stars": 3326,
             "topics": [
               "smart-contract",
               "solidity",
@@ -552,7 +552,7 @@
             "open_issues": 20,
             "owner": "rust-in-blockchain",
             "repo": "awesome-blockchain-rust",
-            "stars": 2827,
+            "stars": 2828,
             "topics": [
               "awesome",
               "blockchain",
@@ -652,7 +652,7 @@
             "open_issues": 2,
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2241,
+            "stars": 2242,
             "topics": [
               "awesome",
               "awesome-list",
@@ -686,7 +686,7 @@
             "open_issues": 3,
             "owner": "immunefi-team",
             "repo": "Web3-Security-Library",
-            "stars": 2204,
+            "stars": 2203,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
@@ -827,7 +827,7 @@
             "open_issues": 4,
             "owner": "sigp",
             "repo": "solidity-security-blog",
-            "stars": 1525,
+            "stars": 1526,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
@@ -875,7 +875,7 @@
             "open_issues": 43,
             "owner": "crytic",
             "repo": "awesome-ethereum-security",
-            "stars": 1481,
+            "stars": 1482,
             "topics": [
               "ethereum",
               "evm",
@@ -955,7 +955,7 @@
             "open_issues": 163,
             "owner": "0xmetaschool",
             "repo": "Learning-Projects",
-            "stars": 995,
+            "stars": 994,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
@@ -976,7 +976,7 @@
             "open_issues": 1,
             "owner": "spo0ds",
             "repo": "Journey-to-become-a-Blockchain-Engineer",
-            "stars": 945,
+            "stars": 944,
             "topics": [
               "aave",
               "blockchain",
@@ -1007,7 +1007,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-08-28T14:42:04Z",
-            "open_issues": 1335,
+            "open_issues": 1337,
             "owner": "arddluma",
             "repo": "awesome-list-rpc-nodes-providers",
             "stars": 916,
@@ -1294,8 +1294,8 @@
             "homepage": null,
             "id": 65865666,
             "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-10-21T01:09:07Z",
+            "license": "MIT",
+            "last_commit": "2026-10-27T11:22:31Z",
             "open_issues": 0,
             "owner": "JamesANZ",
             "repo": "JevPromptShield",
@@ -2316,7 +2316,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:30:23.564Z",
+    "last_updated": "2026-10-27T20:06:22.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol.",
@@ -2328,7 +2328,7 @@
       "open_issues": 15,
       "owner": "frankiefab100",
       "repo": "Blockchain-Development-Resources",
-      "stars": 1576,
+      "stars": 1575,
       "topics": [
         "awesome-list",
         "awesome-readme",
