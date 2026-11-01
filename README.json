@@ -15,11 +15,11 @@
             "id": 21938243,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-31T15:10:59Z",
+            "last_commit": "2026-11-01T09:49:04Z",
             "open_issues": 8,
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 60238,
+            "stars": 60263,
             "topics": [
               "awesome",
               "rust"
@@ -43,7 +43,7 @@
             "open_issues": 105,
             "owner": "smartcontractkit",
             "repo": "full-blockchain-solidity-course-js",
-            "stars": 14055,
+            "stars": 14054,
             "topics": [
               "alchemy",
               "blockchain",
@@ -111,10 +111,10 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-20T15:42:14Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "OffcierCia",
             "repo": "DeFi-Developer-Road-Map",
-            "stars": 10882,
+            "stars": 10883,
             "topics": [
               "awesome",
               "awesome-list",
@@ -188,7 +188,7 @@
             "open_issues": 20,
             "owner": "slowmist",
             "repo": "Blockchain-dark-forest-selfguard-handbook",
-            "stars": 6887,
+            "stars": 6890,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
@@ -206,10 +206,10 @@
             "language": "Solidity",
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T03:03:59Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "SunWeb3Sec",
             "repo": "DeFiHackLabs",
-            "stars": 6830,
+            "stars": 6831,
             "topics": [
               "defi",
               "ethereum",
@@ -448,7 +448,7 @@
             "open_issues": 7,
             "owner": "openblockchains",
             "repo": "awesome-blockchains",
-            "stars": 3783,
+            "stars": 3782,
             "topics": [
               "blockchain",
               "content-addressable-storage",
@@ -484,7 +484,7 @@
             "open_issues": 20,
             "owner": "yjjnls",
             "repo": "awesome-blockchain",
-            "stars": 3642,
+            "stars": 3643,
             "topics": [
               "awesome",
               "awesome-list",
@@ -631,7 +631,7 @@
             "open_issues": 61,
             "owner": "crytic",
             "repo": "building-secure-contracts",
-            "stars": 2481,
+            "stars": 2482,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
@@ -1007,7 +1007,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-08-28T14:42:04Z",
-            "open_issues": 1340,
+            "open_issues": 1341,
             "owner": "arddluma",
             "repo": "awesome-list-rpc-nodes-providers",
             "stars": 916,
@@ -1050,7 +1050,7 @@
             "open_issues": 10,
             "owner": "DavidAJohnston",
             "repo": "DecentralizedApplications",
-            "stars": 878,
+            "stars": 877,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
@@ -2274,7 +2274,7 @@
             "open_issues": 207,
             "owner": "lnbook",
             "repo": "lnbook",
-            "stars": 2971,
+            "stars": 2970,
             "topics": [
               "bitcoin",
               "blockchain",
@@ -2316,7 +2316,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T19:19:17.785Z",
+    "last_updated": "2026-11-01T19:42:36.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol.",
@@ -2328,7 +2328,7 @@
       "open_issues": 14,
       "owner": "frankiefab100",
       "repo": "Blockchain-Development-Resources",
-      "stars": 1575,
+      "stars": 1574,
       "topics": [
         "awesome-list",
         "awesome-readme",
