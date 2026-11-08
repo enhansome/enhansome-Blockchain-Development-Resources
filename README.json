@@ -15,11 +15,11 @@
             "id": 21938243,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-11-06T08:12:19Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-08T18:39:00Z",
+            "open_issues": 8,
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 60383,
+            "stars": 60402,
             "topics": [
               "awesome",
               "rust"
@@ -146,7 +146,7 @@
             "open_issues": 25,
             "owner": "bkrem",
             "repo": "awesome-solidity",
-            "stars": 7069,
+            "stars": 7070,
             "topics": [
               "awesome",
               "awesome-list",
@@ -373,7 +373,7 @@
             "open_issues": 5,
             "owner": "Scanate",
             "repo": "EthList",
-            "stars": 3872,
+            "stars": 3873,
             "topics": [
               "bitcoin",
               "blockchain",
@@ -408,7 +408,7 @@
             "open_issues": 60,
             "owner": "nakov",
             "repo": "Practical-Cryptography-for-Developers-Book",
-            "stars": 3843,
+            "stars": 3844,
             "topics": [
               "aes",
               "asymmetric-ciphers",
@@ -481,10 +481,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-03T05:10:17Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "yjjnls",
             "repo": "awesome-blockchain",
-            "stars": 3644,
+            "stars": 3643,
             "topics": [
               "awesome",
               "awesome-list",
@@ -552,7 +552,7 @@
             "open_issues": 20,
             "owner": "rust-in-blockchain",
             "repo": "awesome-blockchain-rust",
-            "stars": 2829,
+            "stars": 2830,
             "topics": [
               "awesome",
               "blockchain",
@@ -652,7 +652,7 @@
             "open_issues": 3,
             "owner": "OffcierCia",
             "repo": "ultimate-defi-research-base",
-            "stars": 2246,
+            "stars": 2247,
             "topics": [
               "awesome",
               "awesome-list",
@@ -686,7 +686,7 @@
             "open_issues": 4,
             "owner": "immunefi-team",
             "repo": "Web3-Security-Library",
-            "stars": 2205,
+            "stars": 2204,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
@@ -785,7 +785,7 @@
             "open_issues": 3,
             "owner": "nosequeldeebee",
             "repo": "blockchain-tutorial",
-            "stars": 1600,
+            "stars": 1599,
             "topics": []
           },
           "first_seen": "2026-08-29T00:01:10.925Z"
@@ -1007,7 +1007,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-08-28T14:42:04Z",
-            "open_issues": 1347,
+            "open_issues": 1348,
             "owner": "arddluma",
             "repo": "awesome-list-rpc-nodes-providers",
             "stars": 916,
@@ -2213,7 +2213,7 @@
             "open_issues": 194,
             "owner": "bitcoinbook",
             "repo": "bitcoinbook",
-            "stars": 25344,
+            "stars": 25345,
             "topics": [
               "bitcoin",
               "bitcoin-api",
@@ -2316,7 +2316,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:26:39.890Z",
+    "last_updated": "2026-11-08T19:42:58.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol.",
